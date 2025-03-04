@@ -736,43 +736,71 @@
         "item_AdXeRP": {
           "type": "item",
           "settings": {
-            "title": "What makes Kindfoot different from other hiking shoe brands?",
-            "content": "<p>Kindfoot stands out for its dedication to foot health and comfort, especially for those with sensitive or orthopedic needs. Unlike other brands, we integrate advanced support technology right from the design phase, backed by orthopedic experts, to offer lasting comfort on long hikes or challenging terrain. Kindfoot isn’t just footwear—it’s a solution for staying active and pain-free.</p>"
+            "title": "LipBoost aide-t-il à réduire les ridules autour de la bouche ?",
+            "content": "<p>Oui, grâce à sa formule unique, LipBoost <strong>hydrate en profondeur et améliore l'apparence des ridules</strong>, pour un contour des lèvres <strong>plus lisse et plus jeune.</strong></p><h3></h3>"
           }
         },
         "item_J4DdRT": {
           "type": "item",
           "settings": {
-            "title": "How do I find the right Kindfoot size? Do you offer a specific sizing guide?",
-            "content": "<p>To help you find the perfect fit, we provide a detailed sizing guide tailored to our models and designed with hiking comfort in mind. This guide is available on our website and includes tips for measuring your feet correctly, along with recommendations on sizing up or down for extended hikes.</p>"
+            "title": "Est-ce que LipBoost fait mal ?",
+            "content": "<p>Non, LipBoost est conçu pour être <strong>indolore</strong>. Le microneedling est une méthode douce qui ne cause ni douleur ni gêne. Vous ressentirez peut-être un léger picotement pendant l’utilisation, mais rien de désagréable.</p><h3></h3>"
           }
         },
         "item_nNeQfJ": {
           "type": "item",
           "settings": {
-            "title": "Are your shoes suitable for people with special orthopedic needs?",
-            "content": "<p>Yes, our shoes are designed with orthopedic needs in mind. Each model includes ergonomic arch support and shock-absorbing insoles to prevent knee, hip, and back pain. Our shoes also have room for custom orthotic inserts, allowing for personalized adjustments to meet specific support needs.</p>"
+            "title": "Combien de temps faut-il pour voir les résultats ?",
+            "content": "<p>Les premiers résultats sont visibles dès la <strong>première utilisation</strong>. Vous remarquerez des lèvres plus hydratées, plus lisses et légèrement repulpées. Avec une utilisation régulière, les résultats s’améliorent au fil du temps, donnant des lèvres plus fermes et volumineuses.</p><h3></h3>"
           }
         },
         "item_gwQqMg": {
           "type": "item",
           "settings": {
-            "title": "Are Kindfoot shoes versatile enough for everyday wear, not just hiking?",
-            "content": "<p>Yes, Kindfoot shoes are designed with versatile comfort in mind, making them ideal not only for hiking but also for everyday wear. Many customers use them for daily errands, walks, and even work, thanks to their supportive yet stylish design.</p>"
+            "title": "À quelle fréquence dois-je utiliser LipBoost ?",
+            "content": "<p>Nous recommandons d’utiliser LipBoost <strong>1 à 3 fois par semaine</strong>. Chaque séance dure environ <strong>3 minutes</strong>, ce qui permet de l’intégrer facilement à votre routine beauté.</p><h3></h3>"
           }
         },
         "item_biH7Vq": {
           "type": "item",
           "settings": {
-            "title": "Are Kindfoot shoes heavy compared to other hiking shoes?",
-            "content": "<p>No, Kindfoot shoes are specifically designed to be lightweight while still offering robust support and durability. Our materials provide a sturdy feel without the added weight of traditional hiking shoes.</p>"
+            "title": "Le produit est-il sûr ?",
+            "content": "<p>Oui, LipBoost est entièrement <strong>sûr</strong> à utiliser. Il a été conçu pour offrir des résultats efficaces tout en respectant votre peau. De plus, il est accompagné d’un sérum hydratant enrichi en <strong>acide hyaluronique</strong> pour garantir une hydratation intense et éviter toute irritation.</p><h3></h3>"
           }
         },
         "item_kaWfdj": {
           "type": "item",
           "settings": {
-            "title": "Does Kindfoot offer discounts for first-time buyers or loyal customers?",
-            "content": "<p>We offer occasional promotions and discounts for both new customers and returning ones. Sign up for our newsletter to be notified of special offers and exclusive deals.</p>"
+            "title": "Combien de temps dure l'effet repulpant ?",
+            "content": "<p>L'effet repulpant et hydratant peut durer jusqu’à <strong>24 heures</strong> après une seule utilisation. Avec une utilisation régulière, les résultats sont <strong>cumulatifs</strong> et deviennent de plus en plus visibles avec le temps.</p><h3></h3>"
+          }
+        },
+        "item_ffQnzA": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je utiliser LipBoost si j’ai la peau sensible ?",
+            "content": "<p>Oui, LipBoost est adapté pour les <strong>peaux sensibles</strong>. Le processus de microneedling est doux, et le sérum hydratant inclus contient des ingrédients naturels qui nourrissent et protègent les lèvres sans provoquer d’irritation.</p><h3></h3>"
+          }
+        },
+        "item_xmNdYa": {
+          "type": "item",
+          "settings": {
+            "title": "Dois-je utiliser un produit spécifique avec LipBoost ?",
+            "content": "<p>Chaque LipBoost est fourni avec un <strong>sérum hydratant offert</strong>, spécialement conçu pour optimiser les résultats du microneedling. Nous recommandons d’utiliser ce sérum pour des résultats optimaux, mais vous pouvez également utiliser d'autres sérums adaptés à votre routine de soin des lèvres.</p><h3></h3>"
+          }
+        },
+        "item_NnzRFp": {
+          "type": "item",
+          "settings": {
+            "title": "Est-ce que LipBoost remplace les injections ?",
+            "content": "<p>Oui, LipBoost est une <strong>alternative naturelle et non invasive</strong> aux injections pour repulper les lèvres. Il stimule la production de collagène pour un effet volumisant progressif et naturel, sans avoir besoin d’aiguilles ni de produits chimiques.</p><h3></h3>"
+          }
+        },
+        "item_pEwLNB": {
+          "type": "item",
+          "settings": {
+            "title": "Comment entretenir LipBoost ?",
+            "content": "<p>Après chaque utilisation, il est important de<strong>nettoyer et désinfecter</strong>soigneusement LipBoost avec un produit antibactérien doux. Cela permet de garantir une utilisation hygiénique et de maintenir les performances optimales de l’appareil.</p>"
           }
         }
       },
@@ -783,7 +811,11 @@
         "item_nNeQfJ",
         "item_gwQqMg",
         "item_biH7Vq",
-        "item_kaWfdj"
+        "item_kaWfdj",
+        "item_ffQnzA",
+        "item_xmNdYa",
+        "item_NnzRFp",
+        "item_pEwLNB"
       ],
       "settings": {
         "full_width": true,
