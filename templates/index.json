@@ -430,7 +430,7 @@
       ],
       "settings": {
         "body_gap": 32,
-        "body_gap_mobile": 32,
+        "body_gap_mobile": 16,
         "content_horizontal_align": "start",
         "content_horizontal_align_mobile": "center",
         "heading": "<h4><strong>LipBoost vs </strong>Injections</h4>",
