@@ -24,6 +24,21 @@
         "overlay_opacity": 0
       }
     },
+    "image_with_text_overlay_yG3icq": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/benef.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "faq_dLcrRD": {
       "type": "faq",
       "blocks": {
@@ -153,6 +168,7 @@
   },
   "order": [
     "video_En6bxX",
+    "image_with_text_overlay_yG3icq",
     "faq_dLcrRD",
     "contact_HyCkWQ",
     "ss_wave_2_tU7qQR"
