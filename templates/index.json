@@ -650,6 +650,18 @@
         "input_text_color": ""
       }
     },
+    "custom_liquid_NAJACE": {
+      "type": "custom-liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div id=\"shopify-section-template--19297057767663__icons_list_NGrm7y\" class=\"shopify-section section-icons-list\" bis_skin_checked=\"1\"><!-- -- featured promotion start -- -->\n<div class=\"featured_promotion bg-yellow\" bis_skin_checked=\"1\">\n    <div class=\"container\" bis_skin_checked=\"1\">\n        <div class=\"fp-wrapper\" bis_skin_checked=\"1\"><div class=\"fp_item\" bis_skin_checked=\"1\">\n                    \n                        <div class=\"fp_icon\" bis_skin_checked=\"1\">\n                            <img src=\"https://qureskincare.com/cdn/shop/files/free-shipping-ftr_150x.svg?v=1707822298&amp;em-format=avif\" alt=\"\" class=\"img-fluid\">\n                        </div>\n                    \n                    \n                        <div class=\"fp_icon_text\" bis_skin_checked=\"1\">\n                            <p>Free Shipping</p><p>Orders Over €100</p>\n                        </div> \n                    \n                </div><div class=\"fp_item\" bis_skin_checked=\"1\">\n                    \n                        <div class=\"fp_icon\" bis_skin_checked=\"1\">\n                            <img src=\"https://qureskincare.com/cdn/shop/files/buy-now-ftr_150x.svg?v=1706890098&amp;em-format=avif\" alt=\"\" class=\"img-fluid\">\n                        </div>\n                    \n                    \n                        <div class=\"fp_icon_text\" bis_skin_checked=\"1\">\n                            <p>Buy Now,</p><p>Pay Later</p>\n                        </div> \n                    \n                </div><div class=\"fp_item\" bis_skin_checked=\"1\">\n                    \n                        <div class=\"fp_icon\" bis_skin_checked=\"1\">\n                            <img src=\"https://qureskincare.com/cdn/shop/files/derma-ftr_150x.svg?v=1706890165&amp;em-format=avif\" alt=\"\" class=\"img-fluid\">\n                        </div>\n                    \n                    \n                        <div class=\"fp_icon_text\" bis_skin_checked=\"1\">\n                            <p>Dermatologist</p><p>Reviewed</p>\n                        </div> \n                    \n                </div><div class=\"fp_item\" bis_skin_checked=\"1\">\n                    \n                        <div class=\"fp_icon\" bis_skin_checked=\"1\">\n                            <img src=\"https://qureskincare.com/cdn/shop/files/science-ftr_150x.svg?v=1706890215&amp;em-format=avif\" alt=\"\" class=\"img-fluid\">\n                        </div>\n                    \n                    \n                        <div class=\"fp_icon_text\" bis_skin_checked=\"1\">\n                            <p>Proven Results,</p><p>Backed by science</p>\n                        </div> \n                    \n                </div></div>\n    </div>\n</div>\n<!-- -- featured promotion end -- -->\n\n\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "ss_feature_13_HTteqM": {
       "type": "ss-feature-13",
       "settings": {
@@ -848,6 +860,7 @@
     "multi_column_i69qM6",
     "ss_comparison_table_6_yAEc4E",
     "featured_product_7ECepx",
+    "custom_liquid_NAJACE",
     "ss_feature_13_HTteqM",
     "faq_dLcrRD",
     "contact_HyCkWQ",
