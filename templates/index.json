@@ -126,7 +126,7 @@
     "ss_testimonial_8_RG4UDb": {
       "type": "ss-testimonial-8",
       "settings": {
-        "heading": "Our customers tell it better than we do!",
+        "heading": "Des résultats que vous verrez de vos propres yeux.",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 40,
@@ -140,7 +140,7 @@
         "rating_text_size_mobile": 20,
         "rating_text_height": 130,
         "rating_text_mt": 16,
-        "rating": 4.7,
+        "rating": 4.8,
         "rating_hide": false,
         "rating_text_hide": false,
         "rating_align": "center",
