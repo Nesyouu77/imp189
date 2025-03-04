@@ -317,6 +317,158 @@
         "text_color": ""
       }
     },
+    "featured_product_7ECepx": {
+      "type": "featured-product",
+      "blocks": {
+        "liquid_zmcyxW": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div id=\"shopify-section-template--24620306497867__html_tXrXMm\" class=\"shopify-section\" bis_skin_checked=\"1\">\n\n\n\n<div id=\"html-section-template--24620306497867__html_tXrXMm\" class=\"html-section enter-view bg-body text-body text-center pt-5 pb-0 mt-0 mb-0 entered\" bis_skin_checked=\"1\">\n    <div class=\"container\" bis_skin_checked=\"1\">\n        \n\n<style data-shopify=\"\">\n#background-text-template--24620306497867__html_tXrXMm {\n    font-size: calc(2em * 3);\n}\n</style>\n\n\n\n \n\n\n\n\n        <div style=\"display: inline-flex; align-items: center; background-color: rgb(245, 245, 245); color: rgb(0, 0, 0); padding: 6px 14px; border-radius: 20px; font-weight: bold; font-size: 14px; white-space: nowrap; width: fit-content; position: relative;\" bis_skin_checked=\"1\">\n    ÉLU #1 DES REPULPEURS DE LÈVRES <img width=\"18\" height=\"18\" src=\"https://img.icons8.com/color/18/france.png\" alt=\"drapeau-france\" style=\"margin-left: 10px;\" class=\"\">\n</div>\n        \n    </div>\n</div>\n  \n</div>"
+          }
+        },
+        "title_QF8HGp": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "liquid_tYmdhg": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-block-liquid-code mt-3 mb-3 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; justify-content: space-around; align-items: center; background-color: #FEE0E1; padding: 6px 2%; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; color: #000; width: 100%;\" bis_skin_checked=\"1\">\n\n    <!-- Ingrédients Naturels -->\n    <div style=\"display: flex; align-items: center; gap: 6px; position: relative;\" bis_skin_checked=\"1\">\n        <img src=\"https://img.icons8.com/ios/20/000000/leaf.png\" alt=\"Ingrédients naturels\" class=\"\">\n        <span>Ingrédients Naturels</span>\n    </div>\n\n    <!-- Réservoir Intégré -->\n    <div style=\"display: flex; align-items: center; gap: 6px; position: relative;\" bis_skin_checked=\"1\">\n        <img src=\"https://img.icons8.com/ios/20/000000/test-tube.png\" alt=\"Réservoir Intégré\" class=\"\">\n        <span>Réservoir Intégré</span>\n    </div>\n\n</div>\n</div>"
+          }
+        },
+        "price_3zNh6Y": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "separator_hByp6X": {
+          "type": "separator",
+          "settings": {}
+        },
+        "liquid_EHHArz": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-block-liquid-code mt-7 mb-10 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"font-family: Arial, sans-serif; max-width: 400px; color: #000;\" bis_skin_checked=\"1\">\n    <h2 style=\"font-size: 18px; font-weight: bold; margin-bottom: 4px;\">Obtenez des résultats visibles et durables grâce à notre technologie avancée, sans injections ni compromis.</h2>\n    <p style=\"font-size: 12px; color: #777; margin-top: 0;\">Un soin expert pour sublimer votre sourire</p>\n\n    <ul style=\"list-style: none; padding: 0; font-size: 14px; line-height: 1.6;\">\n        <li style=\"display: flex; align-items: center; margin-bottom: 6px;\">\n            <span style=\"width: 18px; height: 18px; display: flex; justify-content: center; align-items: center; background-color: #000; color: #fff; border-radius: 50%; font-size: 12px; font-weight: bold; margin-right: 10px;\">✓</span>\n            Repulpe naturellement\n        </li>\n        <li style=\"display: flex; align-items: center; margin-bottom: 6px;\">\n            <span style=\"width: 18px; height: 18px; display: flex; justify-content: center; align-items: center; background-color: #000; color: #fff; border-radius: 50%; font-size: 12px; font-weight: bold; margin-right: 8px;\">✓</span>\n           Hydratation intense et profonde\n        </li>\n        <li style=\"display: flex; align-items: center; margin-bottom: 6px;\">\n            <span style=\"width: 18px; height: 18px; display: flex; justify-content: center; align-items: center; background-color: #000; color: #fff; border-radius: 50%; font-size: 12px; font-weight: bold; margin-right: 8px;\">✓</span>\n            Lisse et atténue les ridules\n        </li>\n        <li style=\"display: flex; align-items: center;\">\n            <span style=\"width: 18px; height: 18px; display: flex; justify-content: center; align-items: center; background-color: #000; color: #fff; border-radius: 50%; font-size: 12px; font-weight: bold; margin-right: 8px;\">✓</span>\n           Solution douce et efficace\n        </li>\n    </ul>\n</div>\n</div>"
+          }
+        },
+        "liquid_kAkDQJ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-block-liquid-code mt-6 mb-6 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"background-color: #f9f9f9; border-left: 4px solid #ff9ca5; padding: 15px; margin-bottom: 20px; border-radius: 4px;\" bis_skin_checked=\"1\">\n        <p style=\"font-style: italic;\">\"Après quelques semaines, le changement est incroyable ! ✨ Mes lèvres sont plus lisses, mes ridules ont presque disparu et même mes sillons autour de la bouche se sont visiblement atténués❤️\" – <strong>Pascale, 52 ans</strong></p>\n    </div>\n</div>"
+          }
+        },
+        "liquid_ALRLF6": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-block-liquid-code mt-2 mb-6 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"background-color: #ffffff; border: 1px solid #000000; border-radius: 8px; padding: 10px 20px; text-align: center; font-family: 'Arial', sans-serif; margin: 15px auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 700px;\" bis_skin_checked=\"1\">\n    <h2 style=\"color: #000000; font-size: 1.1rem; font-weight: bold; margin-bottom: 6px;\">\n        Sérum Repulpant Offert\n    </h2>\n    <p style=\"color: #333333; font-size: 0.85rem; line-height: 1.4; font-weight: 500; margin: 0;\">\n        Pour toute commande de LipBoost, recevez <strong style=\"color: #000000;\">gratuitement</strong> notre sérum repulpant enrichi en acide hyaluronique.\n        Un soin intense pour des lèvres encore plus sublimes.\n    </p>\n</div>\n</div>"
+          }
+        },
+        "buy_buttons_Njnz3b": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": false,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "liquid_zmcyxW",
+        "title_QF8HGp",
+        "liquid_tYmdhg",
+        "price_3zNh6Y",
+        "separator_hByp6X",
+        "liquid_EHHArz",
+        "liquid_kAkDQJ",
+        "liquid_ALRLF6",
+        "buy_buttons_Njnz3b"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "lipboost-kit-hydratez-repulpez-rayonnez",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "contained",
+        "mobile_carousel_control": "free_scroll",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "ss_feature_13_HTteqM": {
+      "type": "ss-feature-13",
+      "settings": {
+        "heading": "<p><strong>Comment ça marche ?</strong></p>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 52,
+        "heading_size_mobile": 32,
+        "heading_height": 150,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "body_gap": 80,
+        "items_gap": 50,
+        "items_gap_mobile": 30,
+        "items_mt": 24,
+        "items_mt_mobile": 22,
+        "image": "shopify://shop_images/util.png",
+        "image_position": "center",
+        "image_position_mobile": "first",
+        "image_ratio": "original",
+        "image_ratio_mobile": "original",
+        "image_radius": 0,
+        "image_border_thickness": 0,
+        "content_align": "center",
+        "content_align_mobile": "center",
+        "icon_size": 62,
+        "icon_size_mobile": 54,
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 22,
+        "title_size_mobile": 16,
+        "title_height": 130,
+        "title_mt": 16,
+        "title_mt_mobile": 8,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 16,
+        "text_size_mobile": 16,
+        "text_height": 150,
+        "text_mt": 10,
+        "text_mt_mobile": 6,
+        "text_hide_mobile": true,
+        "icon_color": "#131313",
+        "title_color": "#131313",
+        "text_color": "#131313",
+        "heading_color": "#131313",
+        "image_border_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 160,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
     "ss_comparison_table_6_yAEc4E": {
       "type": "ss-comparison-table-6",
       "blocks": {
@@ -552,158 +704,6 @@
         "lazy": true
       }
     },
-    "featured_product_7ECepx": {
-      "type": "featured-product",
-      "blocks": {
-        "liquid_zmcyxW": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div id=\"shopify-section-template--24620306497867__html_tXrXMm\" class=\"shopify-section\" bis_skin_checked=\"1\">\n\n\n\n<div id=\"html-section-template--24620306497867__html_tXrXMm\" class=\"html-section enter-view bg-body text-body text-center pt-5 pb-0 mt-0 mb-0 entered\" bis_skin_checked=\"1\">\n    <div class=\"container\" bis_skin_checked=\"1\">\n        \n\n<style data-shopify=\"\">\n#background-text-template--24620306497867__html_tXrXMm {\n    font-size: calc(2em * 3);\n}\n</style>\n\n\n\n \n\n\n\n\n        <div style=\"display: inline-flex; align-items: center; background-color: rgb(245, 245, 245); color: rgb(0, 0, 0); padding: 6px 14px; border-radius: 20px; font-weight: bold; font-size: 14px; white-space: nowrap; width: fit-content; position: relative;\" bis_skin_checked=\"1\">\n    ÉLU #1 DES REPULPEURS DE LÈVRES <img width=\"18\" height=\"18\" src=\"https://img.icons8.com/color/18/france.png\" alt=\"drapeau-france\" style=\"margin-left: 10px;\" class=\"\">\n</div>\n        \n    </div>\n</div>\n  \n</div>"
-          }
-        },
-        "title_QF8HGp": {
-          "type": "title",
-          "settings": {
-            "heading_tag": "h2"
-          }
-        },
-        "liquid_tYmdhg": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"product-block-liquid-code mt-3 mb-3 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; justify-content: space-around; align-items: center; background-color: #FEE0E1; padding: 6px 2%; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; color: #000; width: 100%;\" bis_skin_checked=\"1\">\n\n    <!-- Ingrédients Naturels -->\n    <div style=\"display: flex; align-items: center; gap: 6px; position: relative;\" bis_skin_checked=\"1\">\n        <img src=\"https://img.icons8.com/ios/20/000000/leaf.png\" alt=\"Ingrédients naturels\" class=\"\">\n        <span>Ingrédients Naturels</span>\n    </div>\n\n    <!-- Réservoir Intégré -->\n    <div style=\"display: flex; align-items: center; gap: 6px; position: relative;\" bis_skin_checked=\"1\">\n        <img src=\"https://img.icons8.com/ios/20/000000/test-tube.png\" alt=\"Réservoir Intégré\" class=\"\">\n        <span>Réservoir Intégré</span>\n    </div>\n\n</div>\n</div>"
-          }
-        },
-        "price_3zNh6Y": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
-        "separator_hByp6X": {
-          "type": "separator",
-          "settings": {}
-        },
-        "liquid_EHHArz": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"product-block-liquid-code mt-7 mb-10 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"font-family: Arial, sans-serif; max-width: 400px; color: #000;\" bis_skin_checked=\"1\">\n    <h2 style=\"font-size: 18px; font-weight: bold; margin-bottom: 4px;\">Obtenez des résultats visibles et durables grâce à notre technologie avancée, sans injections ni compromis.</h2>\n    <p style=\"font-size: 12px; color: #777; margin-top: 0;\">Un soin expert pour sublimer votre sourire</p>\n\n    <ul style=\"list-style: none; padding: 0; font-size: 14px; line-height: 1.6;\">\n        <li style=\"display: flex; align-items: center; margin-bottom: 6px;\">\n            <span style=\"width: 18px; height: 18px; display: flex; justify-content: center; align-items: center; background-color: #000; color: #fff; border-radius: 50%; font-size: 12px; font-weight: bold; margin-right: 10px;\">✓</span>\n            Repulpe naturellement\n        </li>\n        <li style=\"display: flex; align-items: center; margin-bottom: 6px;\">\n            <span style=\"width: 18px; height: 18px; display: flex; justify-content: center; align-items: center; background-color: #000; color: #fff; border-radius: 50%; font-size: 12px; font-weight: bold; margin-right: 8px;\">✓</span>\n           Hydratation intense et profonde\n        </li>\n        <li style=\"display: flex; align-items: center; margin-bottom: 6px;\">\n            <span style=\"width: 18px; height: 18px; display: flex; justify-content: center; align-items: center; background-color: #000; color: #fff; border-radius: 50%; font-size: 12px; font-weight: bold; margin-right: 8px;\">✓</span>\n            Lisse et atténue les ridules\n        </li>\n        <li style=\"display: flex; align-items: center;\">\n            <span style=\"width: 18px; height: 18px; display: flex; justify-content: center; align-items: center; background-color: #000; color: #fff; border-radius: 50%; font-size: 12px; font-weight: bold; margin-right: 8px;\">✓</span>\n           Solution douce et efficace\n        </li>\n    </ul>\n</div>\n</div>"
-          }
-        },
-        "liquid_kAkDQJ": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"product-block-liquid-code mt-6 mb-6 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"background-color: #f9f9f9; border-left: 4px solid #ff9ca5; padding: 15px; margin-bottom: 20px; border-radius: 4px;\" bis_skin_checked=\"1\">\n        <p style=\"font-style: italic;\">\"Après quelques semaines, le changement est incroyable ! ✨ Mes lèvres sont plus lisses, mes ridules ont presque disparu et même mes sillons autour de la bouche se sont visiblement atténués❤️\" – <strong>Pascale, 52 ans</strong></p>\n    </div>\n</div>"
-          }
-        },
-        "liquid_ALRLF6": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"product-block-liquid-code mt-2 mb-6 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"background-color: #ffffff; border: 1px solid #000000; border-radius: 8px; padding: 10px 20px; text-align: center; font-family: 'Arial', sans-serif; margin: 15px auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 700px;\" bis_skin_checked=\"1\">\n    <h2 style=\"color: #000000; font-size: 1.1rem; font-weight: bold; margin-bottom: 6px;\">\n        Sérum Repulpant Offert\n    </h2>\n    <p style=\"color: #333333; font-size: 0.85rem; line-height: 1.4; font-weight: 500; margin: 0;\">\n        Pour toute commande de LipBoost, recevez <strong style=\"color: #000000;\">gratuitement</strong> notre sérum repulpant enrichi en acide hyaluronique.\n        Un soin intense pour des lèvres encore plus sublimes.\n    </p>\n</div>\n</div>"
-          }
-        },
-        "buy_buttons_Njnz3b": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_payment_button": false,
-            "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
-            "payment_button_background": "",
-            "payment_button_text_color": ""
-          }
-        }
-      },
-      "block_order": [
-        "liquid_zmcyxW",
-        "title_QF8HGp",
-        "liquid_tYmdhg",
-        "price_3zNh6Y",
-        "separator_hByp6X",
-        "liquid_EHHArz",
-        "liquid_kAkDQJ",
-        "liquid_ALRLF6",
-        "buy_buttons_Njnz3b"
-      ],
-      "settings": {
-        "full_width": true,
-        "product": "lipboost-kit-hydratez-repulpez-rayonnez",
-        "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
-        "mobile_media_size": "contained",
-        "mobile_carousel_control": "free_scroll",
-        "enable_video_autoplay": true,
-        "enable_video_looping": false,
-        "enable_image_zoom": false,
-        "max_image_zoom_level": 3,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "input_background": "rgba(0,0,0,0)",
-        "input_text_color": ""
-      }
-    },
-    "ss_feature_13_HTteqM": {
-      "type": "ss-feature-13",
-      "settings": {
-        "heading": "<p><strong>Comment ça marche ?</strong></p>",
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
-        "heading_size": 52,
-        "heading_size_mobile": 32,
-        "heading_height": 150,
-        "heading_align": "center",
-        "heading_align_mobile": "center",
-        "body_gap": 80,
-        "items_gap": 50,
-        "items_gap_mobile": 30,
-        "items_mt": 24,
-        "items_mt_mobile": 22,
-        "image": "shopify://shop_images/util.png",
-        "image_position": "center",
-        "image_position_mobile": "first",
-        "image_ratio": "original",
-        "image_ratio_mobile": "original",
-        "image_radius": 0,
-        "image_border_thickness": 0,
-        "content_align": "center",
-        "content_align_mobile": "center",
-        "icon_size": 62,
-        "icon_size_mobile": 54,
-        "title_custom": false,
-        "title_font": "josefin_sans_n4",
-        "title_size": 22,
-        "title_size_mobile": 16,
-        "title_height": 130,
-        "title_mt": 16,
-        "title_mt_mobile": 8,
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 16,
-        "text_size_mobile": 16,
-        "text_height": 150,
-        "text_mt": 10,
-        "text_mt_mobile": 6,
-        "text_hide_mobile": true,
-        "icon_color": "#131313",
-        "title_color": "#131313",
-        "text_color": "#131313",
-        "heading_color": "#131313",
-        "image_border_color": "#000000",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "padding_horizontal": 5,
-        "padding_horizontal_mobile": 1.5,
-        "full_width": false,
-        "content_width": 160,
-        "border_thickness": 0,
-        "lazy": true
-      }
-    },
     "custom_liquid_NAJACE": {
       "type": "custom-liquid",
       "disabled": true,
@@ -833,26 +833,6 @@
         "accordion_text_color": ""
       }
     },
-    "contact_HyCkWQ": {
-      "type": "contact",
-      "settings": {
-        "full_width": true,
-        "subheading": "Our customer support is available 7 days a week. Average answer time: 35 minutes.",
-        "title": "Do you have any question?",
-        "content": "",
-        "text_position": "center",
-        "contact_form_size": "small",
-        "background": "#ffffff",
-        "background_gradient": "",
-        "text_color": "#000000",
-        "heading_color": "",
-        "heading_gradient": "",
-        "contact_background": "#f0f0f0",
-        "contact_text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "ss_wave_2_tU7qQR": {
       "type": "ss-wave-2",
       "settings": {
@@ -888,7 +868,6 @@
     "ss_comparison_table_6_yAEc4E",
     "custom_liquid_NAJACE",
     "faq_dLcrRD",
-    "contact_HyCkWQ",
     "ss_wave_2_tU7qQR"
   ]
 }
