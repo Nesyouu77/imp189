@@ -17,13 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "BLACK FRIDAY: 50% OFF + Free Shipping",
+            "text": "🩷 +25.000 Femmes conquises",
+            "url": ""
+          }
+        },
+        "message_PFG7LT": {
+          "type": "message",
+          "settings": {
+            "text": "✨ Marque n°1 officielle pour le microneedling.",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_PFG7LT"
       ],
       "settings": {
         "enable_sticky": true,
