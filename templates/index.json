@@ -123,6 +123,226 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "featured_product_7ECepx": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_knWtFD": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_QF8HGp": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_aA9tED": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_3zNh6Y": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_wCwAP4": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_hByp6X": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_HV3CQt": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_HD7Mj8": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_style": "block",
+            "swatch_selector_style": "swatch",
+            "variant_image_options": "",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_cH9Gdw": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_Njnz3b": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_9ytRXi": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_knWtFD",
+        "title_QF8HGp",
+        "badges_aA9tED",
+        "price_3zNh6Y",
+        "rating_wCwAP4",
+        "separator_hByp6X",
+        "description_HV3CQt",
+        "variant_picker_HD7Mj8",
+        "quantity_selector_cH9Gdw",
+        "buy_buttons_Njnz3b",
+        "pickup_availability_9ytRXi"
+      ],
+      "settings": {
+        "full_width": true,
+        "product": "lipboost-kit-hydratez-repulpez-rayonnez",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "contained",
+        "mobile_carousel_control": "free_scroll",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": false,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
+    "ss_feature_13_HTteqM": {
+      "type": "ss-feature-13",
+      "blocks": {
+        "item_FfNWMY": {
+          "type": "item",
+          "settings": {
+            "icon": "heart",
+            "title": "Eye Comfort",
+            "text": "Reduces eye strain by blocking harmful blue light from screens, making digital time more comfortable."
+          }
+        },
+        "item_xTcXnp": {
+          "type": "item",
+          "settings": {
+            "icon": "time",
+            "title": "Better Sleep",
+            "text": "Improves sleep quality by minimizing blue light exposure, which can interfere with circadian rhythms."
+          }
+        },
+        "item_FcHeLa": {
+          "type": "item",
+          "settings": {
+            "icon": "gift",
+            "title": "Enhanced Protection",
+            "text": "Shields your screen from scratches and impacts, extending the lifespan of your device."
+          }
+        },
+        "item_QkMQJp": {
+          "type": "item",
+          "settings": {
+            "icon": "plant",
+            "title": "Anti-Glare",
+            "text": "Reduces glare from sunlight and artificial lighting, improving visibility in bright conditions."
+          }
+        },
+        "item_8Yt9CJ": {
+          "type": "item",
+          "settings": {
+            "icon": "bi-ecology",
+            "title": "Touch Sensivity",
+            "text": "Maintains the original touch responsiveness of your device, ensuring a seamless user experience."
+          }
+        },
+        "item_EqmegV": {
+          "type": "item",
+          "settings": {
+            "icon": "mobile",
+            "title": "Easy Installation",
+            "text": "Designed for a bubble-free application, making it simple to apply without professional assistance."
+          }
+        }
+      },
+      "block_order": [
+        "item_FfNWMY",
+        "item_xTcXnp",
+        "item_FcHeLa",
+        "item_QkMQJp",
+        "item_8Yt9CJ",
+        "item_EqmegV"
+      ],
+      "settings": {
+        "heading": "<h2>Why we are better</h2>",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 52,
+        "heading_size_mobile": 32,
+        "heading_height": 150,
+        "heading_align": "center",
+        "heading_align_mobile": "center",
+        "body_gap": 80,
+        "items_gap": 50,
+        "items_gap_mobile": 30,
+        "items_mt": 24,
+        "items_mt_mobile": 22,
+        "image_position": "center",
+        "image_position_mobile": "first",
+        "image_ratio": "portrait",
+        "image_ratio_mobile": "portrait",
+        "image_radius": 0,
+        "image_border_thickness": 0,
+        "content_align": "center",
+        "content_align_mobile": "center",
+        "icon_size": 50,
+        "icon_size_mobile": 40,
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 22,
+        "title_size_mobile": 16,
+        "title_height": 130,
+        "title_mt": 16,
+        "title_mt_mobile": 8,
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 16,
+        "text_size_mobile": 16,
+        "text_height": 150,
+        "text_mt": 10,
+        "text_mt_mobile": 6,
+        "text_hide_mobile": true,
+        "icon_color": "#131313",
+        "title_color": "#131313",
+        "text_color": "#131313",
+        "heading_color": "#131313",
+        "image_border_color": "#000000",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5,
+        "full_width": false,
+        "content_width": 160,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
     "faq_dLcrRD": {
       "type": "faq",
       "blocks": {
@@ -255,6 +475,8 @@
     "logo_list_7RAtbB",
     "image_with_text_overlay_yG3icq",
     "before_after_image_q4y8KM",
+    "featured_product_7ECepx",
+    "ss_feature_13_HTteqM",
     "faq_dLcrRD",
     "contact_HyCkWQ",
     "ss_wave_2_tU7qQR"
