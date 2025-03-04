@@ -123,6 +123,48 @@
         "drag_cursor_color": "#000000"
       }
     },
+    "sp_image_grid_y6y48i": {
+      "type": "sp-image-grid",
+      "blocks": {
+        "image_pcQF78": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/19_3a872f69-20fe-4574-980c-8f3bc3811f62.png",
+            "link": ""
+          }
+        },
+        "image_ngDyGP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/23_9dd5294d-5863-4488-9600-3897bfca8682.png",
+            "link": ""
+          }
+        },
+        "image_CgE9Xq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/21_74a2410f-09c1-4403-b243-71a677b9fa76_1.png",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_pcQF78",
+        "image_ngDyGP",
+        "image_CgE9Xq"
+      ],
+      "settings": {
+        "background_color": "linear-gradient(164deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1))",
+        "button_background_color": "linear-gradient(164deg, rgba(17, 17, 17, 1), rgba(51, 51, 51, 1) 100%)",
+        "image_aspect_ratio": "1 / 1",
+        "max_width": 1000,
+        "grid_gap": 25,
+        "padding_top": 25,
+        "padding_bottom": 25,
+        "padding_left": 10,
+        "padding_right": 10
+      }
+    },
     "featured_product_7ECepx": {
       "type": "featured-product",
       "blocks": {
@@ -470,6 +512,7 @@
     "logo_list_7RAtbB",
     "image_with_text_overlay_yG3icq",
     "before_after_image_q4y8KM",
+    "sp_image_grid_y6y48i",
     "featured_product_7ECepx",
     "ss_feature_13_HTteqM",
     "faq_dLcrRD",
