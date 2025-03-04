@@ -114,7 +114,7 @@
         "before_text": "Avant - 0min",
         "after_text": "Après - 10min",
         "drag_initial_position": 50,
-        "background": "",
+        "background": "#ffffff",
         "background_gradient": "",
         "text_color": "",
         "before_text_color": "#ffffff",
