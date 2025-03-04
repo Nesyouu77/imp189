@@ -152,7 +152,7 @@
         "link_text": "Essayez-le maintenant",
         "link": "",
         "headline_spacing": 15,
-        "button_background_color": "linear-gradient(164deg, rgba(255, 158, 221, 1), rgba(255, 158, 221, 1) 98%)",
+        "button_background_color": "linear-gradient(164deg, rgba(26, 26, 26, 1) 4%, rgba(26, 26, 26, 1) 98%)",
         "button_text_color": "#fff",
         "button_text_size": 15,
         "button_padding_tb": 10,
