@@ -329,7 +329,7 @@
         "liquid_tYmdhg": {
           "type": "liquid",
           "settings": {
-            "liquid": ""
+            "liquid": "<div class=\"product-block-liquid-code mt-3 mb-3 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; justify-content: space-around; align-items: center; background-color: #FEE0E1; padding: 6px 2%; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; color: #000; width: 100%;\" bis_skin_checked=\"1\">\n\n    <!-- Ingrédients Naturels -->\n    <div style=\"display: flex; align-items: center; gap: 6px; position: relative;\" bis_skin_checked=\"1\">\n        <img src=\"https://img.icons8.com/ios/20/000000/leaf.png\" alt=\"Ingrédients naturels\" class=\"\">\n        <span>Ingrédients Naturels</span>\n    </div>\n\n    <!-- Réservoir Intégré -->\n    <div style=\"display: flex; align-items: center; gap: 6px; position: relative;\" bis_skin_checked=\"1\">\n        <img src=\"https://img.icons8.com/ios/20/000000/test-tube.png\" alt=\"Réservoir Intégré\" class=\"\">\n        <span>Réservoir Intégré</span>\n    </div>\n\n</div>\n</div>"
           }
         },
         "badges_aA9tED": {
@@ -369,6 +369,12 @@
             "size_chart_page": ""
           }
         },
+        "liquid_kAkDQJ": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-block-liquid-code mt-6 mb-6 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"background-color: #f9f9f9; border-left: 4px solid #ff9ca5; padding: 15px; margin-bottom: 20px; border-radius: 4px;\" bis_skin_checked=\"1\">\n        <p style=\"font-style: italic;\">\"Après quelques semaines, le changement est incroyable ! ✨ Mes lèvres sont plus lisses, mes ridules ont presque disparu et même mes sillons autour de la bouche se sont visiblement atténués❤️\" – <strong>Pascale, 52 ans</strong></p>\n    </div>\n</div>"
+          }
+        },
         "quantity_selector_cH9Gdw": {
           "type": "quantity_selector",
           "settings": {}
@@ -398,6 +404,7 @@
         "separator_hByp6X",
         "description_HV3CQt",
         "variant_picker_HD7Mj8",
+        "liquid_kAkDQJ",
         "quantity_selector_cH9Gdw",
         "buy_buttons_Njnz3b",
         "pickup_availability_9ytRXi"
