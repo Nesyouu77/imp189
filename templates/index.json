@@ -259,34 +259,10 @@
     "ss_comparison_table_6_yAEc4E": {
       "type": "ss-comparison-table-6",
       "blocks": {
-        "list_item_BENipJ": {
-          "type": "list_item",
-          "settings": {
-            "text": "Fall asleep quicker"
-          }
-        },
-        "list_item_84AWjd": {
-          "type": "list_item",
-          "settings": {
-            "text": "Relax & Restorative sleep"
-          }
-        },
-        "list_item_NCHyAg": {
-          "type": "list_item",
-          "settings": {
-            "text": "Wake up refreshed"
-          }
-        },
-        "list_item_RC7CnM": {
-          "type": "list_item",
-          "settings": {
-            "text": "Plant based"
-          }
-        },
-        "table_row_cAfDhe": {
+        "table_row_jKNHnG": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Optimized Dosing",
+            "row_heading": "Non invasif et naturel",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -297,10 +273,10 @@
             "four_column_icon": "none"
           }
         },
-        "table_row_gHqNt6": {
+        "table_row_dfJGpF": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Plant Based",
+            "row_heading": "Stimulation du collagène",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -311,10 +287,10 @@
             "four_column_icon": "none"
           }
         },
-        "table_row_qNyywW": {
+        "table_row_wRbYyp": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Low Sugar",
+            "row_heading": "Sans douleur",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -325,38 +301,10 @@
             "four_column_icon": "none"
           }
         },
-        "table_row_iifQQH": {
+        "table_row_VRR3rQ": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Simple Ingredients",
-            "first_column": "",
-            "first_column_icon": "check",
-            "second_column": "",
-            "second_column_icon": "cross",
-            "third_column": "",
-            "third_column_icon": "none",
-            "four_column": "",
-            "four_column_icon": "none"
-          }
-        },
-        "table_row_jNd4h6": {
-          "type": "table_row",
-          "settings": {
-            "row_heading": "3rd Party Tested",
-            "first_column": "",
-            "first_column_icon": "check",
-            "second_column": "",
-            "second_column_icon": "cross",
-            "third_column": "",
-            "third_column_icon": "none",
-            "four_column": "",
-            "four_column_icon": "none"
-          }
-        },
-        "table_row_taAHFd": {
-          "type": "table_row",
-          "settings": {
-            "row_heading": "Delicious Taste",
+            "row_heading": "Effet durable",
             "first_column": "",
             "first_column_icon": "check",
             "second_column": "",
@@ -369,16 +317,10 @@
         }
       },
       "block_order": [
-        "list_item_BENipJ",
-        "list_item_84AWjd",
-        "list_item_NCHyAg",
-        "list_item_RC7CnM",
-        "table_row_cAfDhe",
-        "table_row_gHqNt6",
-        "table_row_qNyywW",
-        "table_row_iifQQH",
-        "table_row_jNd4h6",
-        "table_row_taAHFd"
+        "table_row_jKNHnG",
+        "table_row_dfJGpF",
+        "table_row_wRbYyp",
+        "table_row_VRR3rQ"
       ],
       "settings": {
         "body_gap": 32,
@@ -479,7 +421,7 @@
         "button_bg_hover_color": "#16142B",
         "button_border_color": "#16142B",
         "button_border_hover_color": "#16142B",
-        "table_border_color": "#2D2B43",
+        "table_border_color": "#ff9edd",
         "table_active_border_color": "#DAD0FF",
         "table_heading_color": "#1A192E",
         "table_heading_active_color": "#FFFFFF",
@@ -488,7 +430,7 @@
         "table_row_heading_color": "#1A192E",
         "table_row_text_color": "#1A192E",
         "table_row_active_text_color": "#FFFFFF",
-        "background_color": "#F6F3FF",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
