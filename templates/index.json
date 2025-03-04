@@ -24,6 +24,68 @@
         "overlay_opacity": 0
       }
     },
+    "logo_list_7RAtbB": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_3LJjcW": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_4r6BHC": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_eyLtrt": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_zEHpnz": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_Wx3Mid": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_3LJjcW",
+        "logo_4r6BHC",
+        "logo_eyLtrt",
+        "logo_zEHpnz",
+        "logo_Wx3Mid"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur :",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "image_with_text_overlay_yG3icq": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -168,6 +230,7 @@
   },
   "order": [
     "video_En6bxX",
+    "logo_list_7RAtbB",
     "image_with_text_overlay_yG3icq",
     "faq_dLcrRD",
     "contact_HyCkWQ",
