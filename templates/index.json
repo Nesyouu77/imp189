@@ -428,6 +428,7 @@
         "table_row_HeTykh",
         "table_row_yMfMLV"
       ],
+      "disabled": true,
       "settings": {
         "body_gap": 32,
         "body_gap_mobile": 16,
