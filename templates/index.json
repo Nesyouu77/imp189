@@ -256,6 +256,67 @@
         "lazy": true
       }
     },
+    "multi_column_i69qM6": {
+      "type": "multi-column",
+      "blocks": {
+        "item_PGL3Tf": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/19_3a872f69-20fe-4574-980c-8f3bc3811f62.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_C8giGi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/23_9dd5294d-5863-4488-9600-3897bfca8682.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_PKe7PM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/21_74a2410f-09c1-4403-b243-71a677b9fa76_1.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_PGL3Tf",
+        "item_C8giGi",
+        "item_PKe7PM"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "ss_comparison_table_6_yAEc4E": {
       "type": "ss-comparison-table-6",
       "blocks": {
@@ -314,13 +375,43 @@
             "four_column": "",
             "four_column_icon": "none"
           }
+        },
+        "table_row_DajCwp": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Rapport qualité/prix",
+            "first_column": "",
+            "first_column_icon": "check",
+            "second_column": "",
+            "second_column_icon": "cross",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
+        },
+        "table_row_HeTykh": {
+          "type": "table_row",
+          "settings": {
+            "row_heading": "Comparaison des Tarifs",
+            "first_column": "Investissement unique avec des résultats durables.",
+            "first_column_icon": "none",
+            "second_column": "Coût élevé nécessitant des retouches régulières",
+            "second_column_icon": "none",
+            "third_column": "",
+            "third_column_icon": "none",
+            "four_column": "",
+            "four_column_icon": "none"
+          }
         }
       },
       "block_order": [
         "table_row_jKNHnG",
         "table_row_dfJGpF",
         "table_row_wRbYyp",
-        "table_row_VRR3rQ"
+        "table_row_VRR3rQ",
+        "table_row_DajCwp",
+        "table_row_HeTykh"
       ],
       "settings": {
         "body_gap": 32,
@@ -422,10 +513,10 @@
         "button_border_color": "#16142B",
         "button_border_hover_color": "#16142B",
         "table_border_color": "#ff9edd",
-        "table_active_border_color": "#DAD0FF",
+        "table_active_border_color": "#ff9edd",
         "table_heading_color": "#1A192E",
         "table_heading_active_color": "#FFFFFF",
-        "table_heading_bg_active_color": "#2D2B43",
+        "table_heading_bg_active_color": "#ff9edd",
         "table_column_active_bg_color": "#2D2B43",
         "table_row_heading_color": "#1A192E",
         "table_row_text_color": "#1A192E",
@@ -443,67 +534,6 @@
         "content_width": 130,
         "border_thickness": 0,
         "lazy": true
-      }
-    },
-    "multi_column_i69qM6": {
-      "type": "multi-column",
-      "blocks": {
-        "item_PGL3Tf": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/19_3a872f69-20fe-4574-980c-8f3bc3811f62.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_C8giGi": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/23_9dd5294d-5863-4488-9600-3897bfca8682.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_PKe7PM": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/21_74a2410f-09c1-4403-b243-71a677b9fa76_1.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_PGL3Tf",
-        "item_C8giGi",
-        "item_PKe7PM"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "featured_product_7ECepx": {
@@ -879,8 +909,8 @@
     "image_with_text_overlay_yG3icq",
     "before_after_image_q4y8KM",
     "ss_testimonial_8_RG4UDb",
-    "ss_comparison_table_6_yAEc4E",
     "multi_column_i69qM6",
+    "ss_comparison_table_6_yAEc4E",
     "featured_product_7ECepx",
     "ss_feature_13_HTteqM",
     "faq_dLcrRD",
