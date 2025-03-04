@@ -125,70 +125,6 @@
     },
     "ss_testimonial_8_RG4UDb": {
       "type": "ss-testimonial-8",
-      "blocks": {
-        "slide_cYzwNC": {
-          "type": "slide",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! 😍",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        },
-        "slide_37hUWW": {
-          "type": "slide",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! 😍",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        },
-        "slide_xniaYM": {
-          "type": "slide",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! 😍",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        },
-        "slide_XRXnGK": {
-          "type": "slide",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! 😍",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        },
-        "slide_MLUjAd": {
-          "type": "slide",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! 😍",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        },
-        "slide_rfMbHB": {
-          "type": "slide",
-          "settings": {
-            "stars_count": 5,
-            "heading": "I love it! 😍",
-            "text": "I was initially hesitant to switch from my usual brand to this new one, but I'm so glad I did! This product has exceeded my expectations. It's not only affordable but also incredibly efficient. The quality is top-notch, and it's user-friendly.",
-            "author_date": "Cathrine"
-          }
-        }
-      },
-      "block_order": [
-        "slide_cYzwNC",
-        "slide_37hUWW",
-        "slide_xniaYM",
-        "slide_XRXnGK",
-        "slide_MLUjAd",
-        "slide_rfMbHB"
-      ],
       "settings": {
         "heading": "Our customers tell it better than we do!",
         "heading_custom": false,
@@ -268,7 +204,7 @@
         "dots_size_mobile": 12,
         "dots_show_desktop": false,
         "dots_show_mobile": false,
-        "button": "View All",
+        "button": "",
         "button_url": "",
         "button_custom": false,
         "button_font": "josefin_sans_n4",
@@ -318,6 +254,67 @@
         "content_width": 120,
         "border_thickness": 0,
         "lazy": true
+      }
+    },
+    "multi_column_i69qM6": {
+      "type": "multi-column",
+      "blocks": {
+        "item_PGL3Tf": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/19_3a872f69-20fe-4574-980c-8f3bc3811f62.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_C8giGi": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/23_9dd5294d-5863-4488-9600-3897bfca8682.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_PKe7PM": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/21_74a2410f-09c1-4403-b243-71a677b9fa76_1.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_PGL3Tf",
+        "item_C8giGi",
+        "item_PKe7PM"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "featured_product_7ECepx": {
@@ -473,7 +470,7 @@
         "item_AJTLLE"
       ],
       "settings": {
-        "heading": "<h2>Why we are better</h2>",
+        "heading": "<h2>Comment ca marche</h2>",
         "heading_custom": false,
         "heading_font": "josefin_sans_n4",
         "heading_size": 52,
@@ -486,7 +483,7 @@
         "items_gap_mobile": 30,
         "items_mt": 24,
         "items_mt_mobile": 22,
-        "image": "shopify://shop_images/Frau-mit-vollen-Lippen.jpg",
+        "image": "shopify://shop_images/util.png",
         "image_position": "center",
         "image_position_mobile": "first",
         "image_ratio": "original",
@@ -665,6 +662,7 @@
     "image_with_text_overlay_yG3icq",
     "before_after_image_q4y8KM",
     "ss_testimonial_8_RG4UDb",
+    "multi_column_i69qM6",
     "featured_product_7ECepx",
     "ss_feature_13_HTteqM",
     "faq_dLcrRD",
