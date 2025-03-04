@@ -30,6 +30,7 @@
         "logo_3LJjcW": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -37,6 +38,7 @@
         "logo_4r6BHC": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -44,6 +46,7 @@
         "logo_eyLtrt": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/logo-seo_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -51,13 +54,7 @@
         "logo_zEHpnz": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_Wx3Mid": {
-          "type": "logo",
-          "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
             "logo_width": 120,
             "link": ""
           }
@@ -67,8 +64,7 @@
         "logo_3LJjcW",
         "logo_4r6BHC",
         "logo_eyLtrt",
-        "logo_zEHpnz",
-        "logo_Wx3Mid"
+        "logo_zEHpnz"
       ],
       "settings": {
         "full_width": true,
