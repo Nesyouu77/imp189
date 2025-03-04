@@ -583,6 +583,12 @@
           "type": "separator",
           "settings": {}
         },
+        "liquid_EHHArz": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-block-liquid-code mt-7 mb-10 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"font-family: Arial, sans-serif; max-width: 400px; color: #000;\" bis_skin_checked=\"1\">\n    <h2 style=\"font-size: 18px; font-weight: bold; margin-bottom: 4px;\">Obtenez des résultats visibles et durables grâce à notre technologie avancée, sans injections ni compromis.</h2>\n    <p style=\"font-size: 12px; color: #777; margin-top: 0;\">Un soin expert pour sublimer votre sourire</p>\n\n    <ul style=\"list-style: none; padding: 0; font-size: 14px; line-height: 1.6;\">\n        <li style=\"display: flex; align-items: center; margin-bottom: 6px;\">\n            <span style=\"width: 18px; height: 18px; display: flex; justify-content: center; align-items: center; background-color: #000; color: #fff; border-radius: 50%; font-size: 12px; font-weight: bold; margin-right: 10px;\">✓</span>\n            Repulpe naturellement\n        </li>\n        <li style=\"display: flex; align-items: center; margin-bottom: 6px;\">\n            <span style=\"width: 18px; height: 18px; display: flex; justify-content: center; align-items: center; background-color: #000; color: #fff; border-radius: 50%; font-size: 12px; font-weight: bold; margin-right: 8px;\">✓</span>\n           Hydratation intense et profonde\n        </li>\n        <li style=\"display: flex; align-items: center; margin-bottom: 6px;\">\n            <span style=\"width: 18px; height: 18px; display: flex; justify-content: center; align-items: center; background-color: #000; color: #fff; border-radius: 50%; font-size: 12px; font-weight: bold; margin-right: 8px;\">✓</span>\n            Lisse et atténue les ridules\n        </li>\n        <li style=\"display: flex; align-items: center;\">\n            <span style=\"width: 18px; height: 18px; display: flex; justify-content: center; align-items: center; background-color: #000; color: #fff; border-radius: 50%; font-size: 12px; font-weight: bold; margin-right: 8px;\">✓</span>\n           Solution douce et efficace\n        </li>\n    </ul>\n</div>\n</div>"
+          }
+        },
         "liquid_kAkDQJ": {
           "type": "liquid",
           "settings": {
@@ -619,6 +625,7 @@
         "liquid_tYmdhg",
         "price_3zNh6Y",
         "separator_hByp6X",
+        "liquid_EHHArz",
         "liquid_kAkDQJ",
         "liquid_ALRLF6",
         "buy_buttons_Njnz3b",
