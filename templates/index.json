@@ -573,42 +573,15 @@
             "liquid": "<div class=\"product-block-liquid-code mt-3 mb-3 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; justify-content: space-around; align-items: center; background-color: #FEE0E1; padding: 6px 2%; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; color: #000; width: 100%;\" bis_skin_checked=\"1\">\n\n    <!-- Ingrédients Naturels -->\n    <div style=\"display: flex; align-items: center; gap: 6px; position: relative;\" bis_skin_checked=\"1\">\n        <img src=\"https://img.icons8.com/ios/20/000000/leaf.png\" alt=\"Ingrédients naturels\" class=\"\">\n        <span>Ingrédients Naturels</span>\n    </div>\n\n    <!-- Réservoir Intégré -->\n    <div style=\"display: flex; align-items: center; gap: 6px; position: relative;\" bis_skin_checked=\"1\">\n        <img src=\"https://img.icons8.com/ios/20/000000/test-tube.png\" alt=\"Réservoir Intégré\" class=\"\">\n        <span>Réservoir Intégré</span>\n    </div>\n\n</div>\n</div>"
           }
         },
-        "badges_aA9tED": {
-          "type": "badges",
-          "settings": {}
-        },
         "price_3zNh6Y": {
           "type": "price",
           "settings": {
             "show_taxes_notice": false
           }
         },
-        "rating_wCwAP4": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
         "separator_hByp6X": {
           "type": "separator",
           "settings": {}
-        },
-        "description_HV3CQt": {
-          "type": "description",
-          "settings": {
-            "collapse_content": false
-          }
-        },
-        "variant_picker_HD7Mj8": {
-          "type": "variant_picker",
-          "settings": {
-            "hide_sold_out_variants": false,
-            "stack_blocks": true,
-            "selector_style": "block",
-            "swatch_selector_style": "swatch",
-            "variant_image_options": "",
-            "size_chart_page": ""
-          }
         },
         "liquid_kAkDQJ": {
           "type": "liquid",
@@ -621,10 +594,6 @@
           "settings": {
             "liquid": "<div class=\"product-block-liquid-code mt-2 mb-6 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"background-color: #ffffff; border: 1px solid #000000; border-radius: 8px; padding: 10px 20px; text-align: center; font-family: 'Arial', sans-serif; margin: 15px auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 700px;\" bis_skin_checked=\"1\">\n    <h2 style=\"color: #000000; font-size: 1.1rem; font-weight: bold; margin-bottom: 6px;\">\n        Sérum Repulpant Offert\n    </h2>\n    <p style=\"color: #333333; font-size: 0.85rem; line-height: 1.4; font-weight: 500; margin: 0;\">\n        Pour toute commande de LipBoost, recevez <strong style=\"color: #000000;\">gratuitement</strong> notre sérum repulpant enrichi en acide hyaluronique.\n        Un soin intense pour des lèvres encore plus sublimes.\n    </p>\n</div>\n</div>"
           }
-        },
-        "quantity_selector_cH9Gdw": {
-          "type": "quantity_selector",
-          "settings": {}
         },
         "buy_buttons_Njnz3b": {
           "type": "buy_buttons",
@@ -642,28 +611,18 @@
           "settings": {
             "liquid": ""
           }
-        },
-        "pickup_availability_9ytRXi": {
-          "type": "pickup_availability",
-          "settings": {}
         }
       },
       "block_order": [
         "liquid_zmcyxW",
         "title_QF8HGp",
         "liquid_tYmdhg",
-        "badges_aA9tED",
         "price_3zNh6Y",
-        "rating_wCwAP4",
         "separator_hByp6X",
-        "description_HV3CQt",
-        "variant_picker_HD7Mj8",
         "liquid_kAkDQJ",
         "liquid_ALRLF6",
-        "quantity_selector_cH9Gdw",
         "buy_buttons_Njnz3b",
-        "liquid_4M9EqA",
-        "pickup_availability_9ytRXi"
+        "liquid_4M9EqA"
       ],
       "settings": {
         "full_width": true,
