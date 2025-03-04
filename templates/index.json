@@ -375,6 +375,12 @@
             "liquid": "<div class=\"product-block-liquid-code mt-6 mb-6 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"background-color: #f9f9f9; border-left: 4px solid #ff9ca5; padding: 15px; margin-bottom: 20px; border-radius: 4px;\" bis_skin_checked=\"1\">\n        <p style=\"font-style: italic;\">\"Après quelques semaines, le changement est incroyable ! ✨ Mes lèvres sont plus lisses, mes ridules ont presque disparu et même mes sillons autour de la bouche se sont visiblement atténués❤️\" – <strong>Pascale, 52 ans</strong></p>\n    </div>\n</div>"
           }
         },
+        "liquid_ALRLF6": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-block-liquid-code mt-2 mb-6 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"background-color: #ffffff; border: 1px solid #000000; border-radius: 8px; padding: 10px 20px; text-align: center; font-family: 'Arial', sans-serif; margin: 15px auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); max-width: 700px;\" bis_skin_checked=\"1\">\n    <h2 style=\"color: #000000; font-size: 1.1rem; font-weight: bold; margin-bottom: 6px;\">\n        Sérum Repulpant Offert\n    </h2>\n    <p style=\"color: #333333; font-size: 0.85rem; line-height: 1.4; font-weight: 500; margin: 0;\">\n        Pour toute commande de LipBoost, recevez <strong style=\"color: #000000;\">gratuitement</strong> notre sérum repulpant enrichi en acide hyaluronique.\n        Un soin intense pour des lèvres encore plus sublimes.\n    </p>\n</div>\n</div>"
+          }
+        },
         "quantity_selector_cH9Gdw": {
           "type": "quantity_selector",
           "settings": {}
@@ -405,6 +411,7 @@
         "description_HV3CQt",
         "variant_picker_HD7Mj8",
         "liquid_kAkDQJ",
+        "liquid_ALRLF6",
         "quantity_selector_cH9Gdw",
         "buy_buttons_Njnz3b",
         "pickup_availability_9ytRXi"
