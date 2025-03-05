@@ -545,7 +545,7 @@
         "table_row_HeTykh": {
           "type": "table_row",
           "settings": {
-            "row_heading": "Comparaison des Tarifs",
+            "row_heading": "Tarifs",
             "first_column": "Investissement unique avec des résultats durables.",
             "first_column_icon": "none",
             "second_column": "Coût élevé nécessitant des retouches régulières",
