@@ -97,8 +97,25 @@
         "overlay_opacity": 0
       }
     },
+    "image_with_text_overlay_LF3m8r": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/1710181377-ezgif.com-video-to-gif-converter_1.gif",
+        "mobile_image": "shopify://shop_images/1710181377-ezgif.com-video-to-gif-converter_1.gif",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "before_after_image_q4y8KM": {
       "type": "before-after-image",
+      "disabled": true,
       "settings": {
         "full_width": true,
         "subheading": "",
@@ -888,6 +905,7 @@
     "video_En6bxX",
     "logo_list_7RAtbB",
     "image_with_text_overlay_yG3icq",
+    "image_with_text_overlay_LF3m8r",
     "before_after_image_q4y8KM",
     "ss_testimonial_8_RG4UDb",
     "multi_column_i69qM6",
