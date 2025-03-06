@@ -382,6 +382,12 @@
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
+        },
+        "liquid_6r7qwW": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_Yfhhr9\" data-block-type=\"liquid\" bis_skin_checked=\"1\"><div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n              <div class=\"product__block product__block--custom_liquid\" bis_skin_checked=\"1\">\n            <style>\n    .unique-badge-container-xyz123 {\n        display: flex;\n        gap: 5px;\n        justify-content: left; /* Center align on all screens */\n    }\n\n    .unique-badge-abc456 {\n        display: flex;\n        align-items: center;\n        padding: 6px 12px;\n        border-radius: 12px;\n        font-size: 12px;\n        font-weight: bold;\n        color: #000;\n        background-color: #F3F7F7;\n        gap: 6px; /* Adds spacing between icon and text */\n        text-align: center;\n    }\n\n    .unique-badge-abc456 img {\n        width: 14px;\n        height: 14px;\n        filter: brightness(0.5);\n    }\n\n    /* MOBILE: Change Layout */\n    @media (max-width: 600px) {\n        .unique-badge-container-xyz123 {\n            justify-content: space-between; /* Keep all badges in one row */\n            gap: 8px; /* More spacing between badges */\n            width: 100%;\n            justify-content: center;\n        }\n\n        .unique-badge-abc456 {\n            flex-direction: column; /* Stack icon above text */\n            align-items: center; /* Center align */\n            padding: 10px 14px; /* More padding for better spacing */\n            font-size: 14px; /* Slightly bigger text for mobile */\n        }\n\n        .unique-badge-abc456 img {\n            margin-right: 0; /* Remove right margin */\n            margin-bottom: 5px; /* Add space below the icon */\n            width: 20px; /* Bigger icons for mobile */\n            height: 20px;\n        }\n    }\n</style>\n\n<div class=\"unique-badge-container-xyz123\" bis_skin_checked=\"1\">\n    <div class=\"unique-badge-abc456\" bis_skin_checked=\"1\" style=\"position: relative;\">\n        <img src=\"https://www.svgrepo.com/show/521010/truck-speed.svg\" alt=\"Fast Shipping\" class=\"\">\n        <span>Livraison suivi</span>\n    </div>\n    <div class=\"unique-badge-abc456\" bis_skin_checked=\"1\" style=\"position: relative;\">\n        <img src=\"https://www.svgrepo.com/show/486865/support.svg\" alt=\"24/7 Support\" class=\"\">\n        <span>Support 24/7</span>\n    </div>\n    <div class=\"unique-badge-abc456\" bis_skin_checked=\"1\" style=\"position: relative;\">\n        <img src=\"https://www.svgrepo.com/show/457232/return.svg\" alt=\"30 Days Return\" class=\"\">\n        <span>30j satisfait ou remboursé</span>\n    </div>\n</div>\n          </div>\n            </div></div>"
+          }
         }
       },
       "block_order": [
@@ -394,7 +400,8 @@
         "liquid_EHHArz",
         "liquid_kAkDQJ",
         "liquid_ALRLF6",
-        "buy_buttons_Njnz3b"
+        "buy_buttons_Njnz3b",
+        "liquid_6r7qwW"
       ],
       "settings": {
         "full_width": true,
