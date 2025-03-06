@@ -34,8 +34,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "Contact us",
-            "content": "<p>Hi toby, I just wanted to tell you to wait until I receive the documents from Bezee for my company, it takes longer than expected so as soon as I have the documents I'll tell you okay?</p>",
+            "title": "Nous contactez",
+            "content": "<p><strong>Service client</strong>: <br/>contact@harveyrosscosmetics.com</p><p><strong>Horaires</strong> : Du Lun au Ven de 9h à 12h et de 13h à 18h / Sam et Dim de 10h à 12h</p>",
             "enable_follow_on_shop": false
           }
         }
