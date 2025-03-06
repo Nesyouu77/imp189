@@ -27,11 +27,19 @@
             "text": "✨ Marque n°1 officielle pour le microneedling.",
             "url": ""
           }
+        },
+        "message_qXa9AB": {
+          "type": "message",
+          "settings": {
+            "text": "OFFRE FIN D£HIVER",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
-        "message_PFG7LT"
+        "message_PFG7LT",
+        "message_qXa9AB"
       ],
       "settings": {
         "enable_sticky": true,
