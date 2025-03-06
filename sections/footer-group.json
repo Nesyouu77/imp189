@@ -11,22 +11,6 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
-    "image_with_text_overlay_CnUzBV": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/logo_rosevia.png",
-        "mobile_image": "shopify://shop_images/logo_rosevia.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -51,7 +35,7 @@
           "type": "text",
           "settings": {
             "title": "Contact us",
-            "content": "<p>hello@kinfoot.com</p><p>Our mission is to support people who are committed to aging on their own terms, staying active and agile. We know our customers value quality and durability over trends, which is why every pair of Kindfoot shoes is crafted with advanced orthopedic support, anti-slip technology, and long-lasting materials that stand up to the demands of daily life.</p>",
+            "content": "<p>Hi toby, I just wanted to tell you to wait until I receive the documents from Bezee for my company, it takes longer than expected so as soon as I have the documents I'll tell you okay?</p>",
             "enable_follow_on_shop": false
           }
         }
@@ -68,6 +52,22 @@
         "show_country_flag": true,
         "show_country_name": true,
         "show_locale_selector": true
+      }
+    },
+    "image_with_text_overlay_CnUzBV": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/logo_rosevia.png",
+        "mobile_image": "shopify://shop_images/logo_rosevia.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
       }
     }
   },
