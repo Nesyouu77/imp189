@@ -553,9 +553,9 @@
           "type": "table_row",
           "settings": {
             "row_heading": "Tarifs",
-            "first_column": "Investissement unique avec des résultats durables.",
+            "first_column": "Investissement unique",
             "first_column_icon": "none",
-            "second_column": "Coût élevé nécessitant des retouches régulières",
+            "second_column": "Coût élevé retouches régulières",
             "second_column_icon": "none",
             "third_column": "",
             "third_column_icon": "none",
