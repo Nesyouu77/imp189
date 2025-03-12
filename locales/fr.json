@@ -444,6 +444,11 @@
   "shopify": {
     "links": {
       "powered_by_shopify": " "
+    },
+    "checkout": {
+      "general": {
+        "all_rights_reserved": " "
+      }
     }
   }
 }
