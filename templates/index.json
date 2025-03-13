@@ -442,6 +442,22 @@
             "content": "<p><strong>1️⃣ Préparez vos lèvres</strong><br/>Assurez-vous que vos lèvres sont <strong>propres et sèches</strong>, sans baume ni maquillage pour une absorption optimale du sérum.</p><p><strong>2️⃣ Appliquez LipBoost</strong><br/>Passez délicatement le <strong>rouleau de microneedling</strong> sur l’ensemble de vos lèvres en effectuant des mouvements horizontaux, verticaux et diagonaux.</p><p><strong>3️⃣ Activez l’hydratation</strong><br/>Le sérum enrichi en <strong>acide hyaluronique</strong> pénètre immédiatement, boostant l’hydratation et stimulant la production de collagène.</p><p><strong>4️⃣ Laissez agir</strong><br/>Attendez quelques minutes que le sérum soit totalement absorbé. <strong>Évitez de toucher vos lèvres</strong> pendant ce temps.</p><p><strong>5️⃣ Adoptez une routine régulière</strong><br/>Utilisez <strong>2 à 3 fois par semaine</strong>, idéalement le soir, pour des résultats visibles en <strong>28 jours</strong>. Pour des lèvres repulpées durablement, poursuivez la cure pendant <strong>3 à 6 mois</strong>.</p>",
             "page": ""
           }
+        },
+        "collapsible_text_6znqMt": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "A qui s'adresse Lipboost",
+            "content": "<p>LipBoost est spécialement conçu pour<strong>celles qui souhaitent des lèvres pulpeuses, hydratées et un contour lissé, sans recours aux traitements invasifs.</strong>En stimulant la production de collagène, i<strong>l aide à atténuer les ridules autour de la bouche et à lisser les sillons, pour un sourire visiblement rajeuni</strong>. Des résultats durables, un geste beauté simple et efficace…<strong>directement depuis chez vous.</strong></p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_RAbfk4": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Ingrédients",
+            "content": "<ul><li><strong>Eau</strong> : hydrate et favorise une absorption optimale.</li><li><strong>1,2-Butanediol</strong> : maintient l’hydratation de la peau grâce à ses propriétés humectantes.</li><li><strong>Acide aminé de soja</strong> : stimule la production naturelle de collagène pour une peau plus ferme.</li><li><strong>Palmitoyl Hexapeptide-12</strong> : réduit l’apparence des rides et améliore l’élasticité cutanée.</li><li><strong>Tréhalose</strong> : hydrate en profondeur et protège contre le stress environnemental.</li><li><strong>Oligosaccharide de malt</strong> : renforce la barrière cutanée et protège la peau.</li><li><strong>Hyaluronate de sodium</strong> : repulpe et hydrate intensément la peau.</li><li><strong>Extrait de racine de Paeonia suffruticosa</strong> : agit comme un antioxydant naturel et unifie le teint.</li><li><strong>Sorbate de potassium</strong> : préserve la fraîcheur et l’efficacité de la formule.</li><li><strong>Hydroxybenzoate</strong> : protège la formulation contre les bactéries et les moisissures.</li></ul>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -460,7 +476,9 @@
         "image_TpQFWb",
         "liquid_aPeb8L",
         "collapsible_text_L3QyJt",
-        "collapsible_text_YA8Uif"
+        "collapsible_text_YA8Uif",
+        "collapsible_text_6znqMt",
+        "collapsible_text_RAbfk4"
       ],
       "settings": {
         "full_width": true,
@@ -633,7 +651,7 @@
           "type": "table_row",
           "settings": {
             "row_heading": "Prix",
-            "first_column": "29,95 €",
+            "first_column": "49 €",
             "first_column_icon": "none",
             "second_column": "300€ à 600€",
             "second_column_icon": "none",
