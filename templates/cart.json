@@ -1,1 +1,57 @@
-{"sections":{"main":{"type":"main-cart","blocks":{"totals":{"type":"totals","settings":{"show_order_weight":false,"show_shipping_text":true}},"cart_note":{"type":"cart_note","settings":{}},"checkout_button":{"type":"checkout_button","settings":{}}},"block_order":["totals","cart_note","checkout_button"],"settings":{"show_shipping_estimator":true,"show_payment_icons":true}},"17316740460c0d1575":{"type":"apps","blocks":{"estimated_delivery_date_plus_delivery_coder_theme_JV8jBW":{"type":"shopify:\/\/apps\/estimated-delivery-date-plus\/blocks\/delivery_coder_theme\/4a0685bc-c234-45b2-8382-5ad6a8e3e3fd","settings":{}},"virtue_charity_donations_customer_donations_Aicdta":{"type":"shopify:\/\/apps\/virtue-charity-donations\/blocks\/customer-donations\/79182888-a717-4890-a7d5-e2f1b496a399","settings":{"virtue_theme":"custom","text_color":"#1D1D1D","background_color":"#ffffff","accent_color":"#3A21CE","banner_size":"small","border":"on","border_radius":10,"drop_shadow":10,"row_padding":0,"button_background_color":"","button_color":"","tagline":"","custom_option":"on"}}},"block_order":["estimated_delivery_date_plus_delivery_coder_theme_JV8jBW","virtue_charity_donations_customer_donations_Aicdta"],"settings":{"full_width":true,"remove_vertical_spacing":false,"remove_horizontal_spacing":false,"background":"","background_gradient":"","text_color":""}}},"order":["main","17316740460c0d1575"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-cart",
+      "blocks": {
+        "totals": {
+          "type": "totals",
+          "settings": {
+            "show_order_weight": false,
+            "show_shipping_text": false
+          }
+        },
+        "cart_note": {
+          "type": "cart_note",
+          "settings": {}
+        },
+        "checkout_button": {
+          "type": "checkout_button",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "totals",
+        "cart_note",
+        "checkout_button"
+      ],
+      "settings": {
+        "show_shipping_estimator": true,
+        "show_payment_icons": true
+      }
+    },
+    "17316740460c0d1575": {
+      "type": "apps",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    }
+  },
+  "order": [
+    "main",
+    "17316740460c0d1575"
+  ]
+}
