@@ -114,6 +114,32 @@
         "overlay_opacity": 0
       }
     },
+    "before_after_image_mdtGxi": {
+      "type": "before-after-image",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Avant/Après",
+        "content": "",
+        "before_image": "shopify://shop_images/avant_apres_face_lift.jpg",
+        "before_image_mobile": "shopify://shop_images/avant_apres_face_lift.jpg",
+        "after_image": "shopify://shop_images/avant_apres_face_lift.jpg",
+        "after_image_mobile": "shopify://shop_images/avant_apres_face_lift.jpg",
+        "expand_image": false,
+        "text_position": "center",
+        "before_after_text_position": "top",
+        "before_text": "Avant",
+        "after_text": "Après",
+        "drag_initial_position": 50,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#f83a3a",
+        "before_text_color": "#f83a3a",
+        "after_text_color": "#f83a3a",
+        "drag_cursor_background": "#ffffff",
+        "drag_cursor_color": "#000000"
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -291,6 +317,7 @@
     "logo_list_QFte8C",
     "image_with_text_overlay_YynQNG",
     "image_with_text_overlay_33CHbC",
+    "before_after_image_mdtGxi",
     "main"
   ]
 }
