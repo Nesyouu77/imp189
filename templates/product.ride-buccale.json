@@ -133,7 +133,7 @@
         "drag_initial_position": 50,
         "background": "",
         "background_gradient": "",
-        "text_color": "#f83a3a",
+        "text_color": "#1a1a1a",
         "before_text_color": "#f83a3a",
         "after_text_color": "#f83a3a",
         "drag_cursor_background": "#ffffff",
