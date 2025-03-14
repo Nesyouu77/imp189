@@ -9,6 +9,111 @@
  */
 {
   "sections": {
+    "video_aLVdaa": {
+      "type": "video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/heqder.mp4",
+        "mobile_video": "shopify://files/videos/heqder.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "logo_list_QFte8C": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_3iLiRd": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_jL7VFW": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_U8rcXF": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/logo-seo_1.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_Bt9WDt": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_3iLiRd",
+        "logo_jL7VFW",
+        "logo_U8rcXF",
+        "logo_Bt9WDt"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "image_with_text_overlay_YynQNG": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Plan_de_travail_1_copie_4.jpg",
+        "mobile_image": "shopify://shop_images/Plan_de_travail_1_copie_4.jpg",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "image_with_text_overlay_33CHbC": {
+      "type": "image-with-text-overlay",
+      "settings": {
+        "full_width": false,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/1710181377-ezgif.com-video-to-gif-converter_1.gif",
+        "mobile_image": "shopify://shop_images/1710181377-ezgif.com-video-to-gif-converter_1.gif",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -37,7 +142,6 @@
         "image_Fqch4T": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/50_OFF_1.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -181,7 +285,6 @@
         "logo_MEb78y": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Design_sans_titre_9.png",
             "logo_width": 120,
             "link": ""
           }
@@ -189,7 +292,6 @@
         "logo_cGX6Lf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Design_sans_titre_8.png",
             "logo_width": 120,
             "link": ""
           }
@@ -197,7 +299,6 @@
         "logo_9DeXPg": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Design_sans_titre_6.png",
             "logo_width": 120,
             "link": ""
           }
@@ -205,7 +306,6 @@
         "logo_TGfPGH": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Design_sans_titre_5.png",
             "logo_width": 120,
             "link": ""
           }
@@ -268,7 +368,6 @@
         "item_tXyPhX": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Copie_de_IMAGE_MOBILE.png",
             "icon": "none",
             "icon_width": 48,
             "title": "COMFORT",
@@ -278,7 +377,6 @@
         "item_PtwJi8": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/2.png",
             "icon": "none",
             "icon_width": 48,
             "title": "DURABILITY",
@@ -288,7 +386,6 @@
         "item_erjJwC": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/3.png",
             "icon": "none",
             "icon_width": 48,
             "title": "STABILITY",
@@ -298,7 +395,6 @@
         "item_WEpPbn": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/4.png",
             "icon": "none",
             "icon_width": 48,
             "title": "QUALITY",
@@ -360,6 +456,10 @@
     }
   },
   "order": [
+    "video_aLVdaa",
+    "logo_list_QFte8C",
+    "image_with_text_overlay_YynQNG",
+    "image_with_text_overlay_33CHbC",
     "main",
     "sp_payment_icons_AzfVwT",
     "logo_list_WKiakj",
