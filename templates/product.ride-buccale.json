@@ -213,9 +213,37 @@
             "liquid": "<div class=\"product-block-liquid-code mt-6 mb-6 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"background-color: #f9f9f9; border-left: 4px solid #ff9ca5; padding: 15px; margin-bottom: 20px; border-radius: 4px;\" bis_skin_checked=\"1\">\n        <p style=\"font-style: italic;\">\"Après quelques semaines, le changement est incroyable ! ✨ Mes lèvres sont plus lisses, mes ridules ont presque disparu et même mes sillons autour de la bouche se sont visiblement atténués❤️\" – <strong>Lucie, 25 ans</strong></p>\n    </div>\n</div>"
           }
         },
-        "payment_terms": {
-          "type": "payment_terms",
-          "settings": {}
+        "collapsible_text_WYcC76": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Comment ca marche ?",
+            "content": "<p><strong>STIMULATION & RÉGÉNÉRATION</strong></p><p><br/>Le microneedling crée de micro-canaux invisibles qui activent le processus de réparation naturelle de la peau. En réponse, la production de collagène et d’élastine s’intensifie, améliorant l’élasticité et la fermeté des lèvres tout en réduisant les ridules.</p><p><strong>HYDRATATION PROFONDE & REPULPANT NATUREL</strong></p><p><br/>L’acide hyaluronique, capable de retenir jusqu’à 1000 fois son poids en eau, pénètre en profondeur pour repulper, lisser et hydrater intensément les lèvres. Résultat : des lèvres visiblement plus pulpeuses et un contour redessiné.</p><p><strong>RÉSULTATS VISIBLES</strong></p><p><br/>Dès les premières utilisations, les lèvres paraissent plus lisses, plus rebondies et visiblement rajeunies. Avec une utilisation régulière, les ridules s’estompent et la peau retrouve souplesse et éclat, sans aucune intervention invasive.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_nE3Gyc": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Comment l'utiliser ?",
+            "content": "<p><strong>1️⃣ Préparez vos lèvres</strong><br/>Assurez-vous que vos lèvres sont <strong>propres et sèches</strong>, sans baume ni maquillage pour une absorption optimale du sérum.</p><p><strong>2️⃣ Appliquez LipBoost</strong><br/>Passez délicatement le <strong>rouleau de microneedling</strong> sur l’ensemble de vos lèvres en effectuant des mouvements horizontaux, verticaux et diagonaux.</p><p><strong>3️⃣ Activez l’hydratation</strong><br/>Le sérum enrichi en <strong>acide hyaluronique</strong> pénètre immédiatement, boostant l’hydratation et stimulant la production de collagène.</p><p><strong>4️⃣ Laissez agir</strong><br/>Attendez quelques minutes que le sérum soit totalement absorbé. <strong>Évitez de toucher vos lèvres</strong> pendant ce temps.</p><p><strong>5️⃣ Adoptez une routine régulière</strong><br/>Utilisez <strong>2 à 3 fois par semaine</strong>, idéalement le soir, pour des résultats visibles en <strong>28 jours</strong>. Pour des lèvres repulpées durablement, poursuivez la cure pendant <strong>3 à 6 mois</strong>.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_eJPRJF": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "A qui s'adresse Lipboost",
+            "content": "<p>LipBoost est spécialement conçu pour <strong>celles qui souhaitent des lèvres pulpeuses, hydratées et un contour lissé, sans recours aux traitements invasifs. </strong>En stimulant la production de collagène, i<strong>l aide à atténuer les ridules autour de la bouche et à lisser les sillons, pour un sourire visiblement rajeuni</strong>. Des résultats durables, un geste beauté simple et efficace…<strong>directement depuis chez vous.</strong></p>",
+            "page": ""
+          }
+        },
+        "collapsible_text_Pd6HrJ": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Ingrédients",
+            "content": "<ul><li><strong>Eau</strong> : hydrate et favorise une absorption optimale.</li><li><strong>1,2-Butanediol</strong> : maintient l’hydratation de la peau grâce à ses propriétés humectantes.</li><li><strong>Acide aminé de soja</strong> : stimule la production naturelle de collagène pour une peau plus ferme.</li><li><strong>Palmitoyl Hexapeptide-12</strong> : réduit l’apparence des rides et améliore l’élasticité cutanée.</li><li><strong>Tréhalose</strong> : hydrate en profondeur et protège contre le stress environnemental.</li><li><strong>Oligosaccharide de malt</strong> : renforce la barrière cutanée et protège la peau.</li><li><strong>Hyaluronate de sodium</strong> : repulpe et hydrate intensément la peau.</li><li><strong>Extrait de racine de Paeonia suffruticosa</strong> : agit comme un antioxydant naturel et unifie le teint.</li><li><strong>Sorbate de potassium</strong> : préserve la fraîcheur et l’efficacité de la formule.</li><li><strong>Hydroxybenzoate</strong> : protège la formulation contre les bactéries et les moisissures.</li></ul>",
+            "page": ""
+          }
         }
       },
       "block_order": [
@@ -234,7 +262,10 @@
         "liquid_6iyr4b",
         "image_6zc9kR",
         "liquid_6LPyty",
-        "payment_terms"
+        "collapsible_text_WYcC76",
+        "collapsible_text_nE3Gyc",
+        "collapsible_text_eJPRJF",
+        "collapsible_text_Pd6HrJ"
       ],
       "settings": {
         "full_width": true,
@@ -253,228 +284,6 @@
         "input_background": "rgba(0,0,0,0)",
         "input_text_color": ""
       }
-    },
-    "sp_payment_icons_AzfVwT": {
-      "type": "sp-payment-icons",
-      "blocks": {
-        "image_BYPLgF": {
-          "type": "image",
-          "settings": {
-            "alt_text": ""
-          }
-        },
-        "image_E8WTLH": {
-          "type": "image",
-          "settings": {
-            "alt_text": ""
-          }
-        },
-        "image_e8EKE4": {
-          "type": "image",
-          "settings": {
-            "alt_text": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_BYPLgF",
-        "image_E8WTLH",
-        "image_e8EKE4"
-      ],
-      "disabled": true,
-      "settings": {
-        "background_color": "linear-gradient(164deg, rgba(255, 255, 255, 1), rgba(255, 255, 255, 1) 100%)",
-        "max_width": 1000,
-        "icon_height": 50,
-        "icon_gap": 5,
-        "padding_top": 25,
-        "padding_bottom": 25,
-        "padding_left": 10,
-        "padding_right": 10,
-        "show_visa": true,
-        "show_mastercard": true,
-        "show_american_express": true,
-        "show_discover": false,
-        "show_paypal": true,
-        "show_apple_pay": false,
-        "show_google_pay": false,
-        "show_shop_pay": false
-      }
-    },
-    "logo_list_WKiakj": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_MEb78y": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_cGX6Lf": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_9DeXPg": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_TGfPGH": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_MEb78y",
-        "logo_cGX6Lf",
-        "logo_9DeXPg",
-        "logo_TGfPGH"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "title": "Featured on",
-        "content": "",
-        "text_alignment": "center",
-        "items_per_row": 5,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
-    "press_WGp7QW": {
-      "type": "press",
-      "blocks": {
-        "quote_jgr4eq": {
-          "type": "quote",
-          "settings": {
-            "logo_width": 100,
-            "author": "",
-            "content": "Scientifically designed for those who refuse to let discomfort hold them back, Kindfoot empowers every step with comfort and support for life’s most meaningful moments.",
-            "show_rating": true,
-            "rating": 5
-          }
-        }
-      },
-      "block_order": [
-        "quote_jgr4eq"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
-      }
-    },
-    "images_with_text_scrolling_yUqDYz": {
-      "type": "images-with-text-scrolling",
-      "blocks": {
-        "item_tXyPhX": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "COMFORT",
-            "content": "<p>Orthopedic Comfort Designed by Experts — Feel the difference with each step.</p>"
-          }
-        },
-        "item_PtwJi8": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "DURABILITY",
-            "content": "<p>Built to Last — Durable materials that support you, day after day</p>"
-          }
-        },
-        "item_erjJwC": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "STABILITY",
-            "content": "<p>Stay Steady on Every Path—Advanced traction and stability for worry-free movement.</p>"
-          }
-        },
-        "item_WEpPbn": {
-          "type": "item",
-          "settings": {
-            "icon": "none",
-            "icon_width": 48,
-            "title": "QUALITY",
-            "content": "<p>Keep your feet healthy and stylish at any age</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_tXyPhX",
-        "item_PtwJi8",
-        "item_erjJwC",
-        "item_WEpPbn"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "show_counter": true,
-        "desktop_image_effect": "reveal",
-        "image_position": "end",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": ""
-      }
-    },
-    "17311443447f1d21d8": {
-      "type": "apps",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "ss_wave_2_nBpHJi": {
-      "type": "ss-wave-2",
-      "settings": {
-        "wave_height": 120,
-        "wave_height_mobile": 80,
-        "wave_animation": true,
-        "wave_rotate": false,
-        "wave_color": "#9d2b32",
-        "background_color": "#ffffff",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 0,
-        "padding_bottom": 0,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0
-      }
     }
   },
   "order": [
@@ -482,12 +291,6 @@
     "logo_list_QFte8C",
     "image_with_text_overlay_YynQNG",
     "image_with_text_overlay_33CHbC",
-    "main",
-    "sp_payment_icons_AzfVwT",
-    "logo_list_WKiakj",
-    "press_WGp7QW",
-    "images_with_text_scrolling_yUqDYz",
-    "17311443447f1d21d8",
-    "ss_wave_2_nBpHJi"
+    "main"
   ]
 }
