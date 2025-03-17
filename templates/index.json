@@ -82,6 +82,41 @@
         "logo_item_border": ""
       }
     },
+    "impact_text_Pnaj6i": {
+      "type": "impact-text",
+      "blocks": {
+        "item_LD9jA4": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "Marre de ces rides qui s’installent et creusent ton visage ?",
+            "content": "",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_LD9jA4"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "image_with_text_overlay_yG3icq": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -97,10 +132,45 @@
         "overlay_opacity": 0
       }
     },
+    "impact_text_b4Uc7c": {
+      "type": "impact-text",
+      "blocks": {
+        "item_MHXD4n": {
+          "type": "item",
+          "settings": {
+            "title": "",
+            "subheading": "RÉSULTATS VISIBLES EN UNE NUIT SEULEMENT !",
+            "content": "<p>Un secret de beauté inspiré des soins dermatologiques professionnels</p>",
+            "button_text": "",
+            "button_url": "",
+            "animate_impact_text": false,
+            "animate_impact_text_duration": 2
+          }
+        }
+      },
+      "block_order": [
+        "item_MHXD4n"
+      ],
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "text_alignment": "center",
+        "impact_text_style": "fill",
+        "text_divider": "none",
+        "impact_text_size_ratio": 1,
+        "background": "",
+        "background_gradient": "",
+        "heading_text_color": "",
+        "heading_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "image_with_text_overlay_LF3m8r": {
       "type": "image-with-text-overlay",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
@@ -965,7 +1035,9 @@
   "order": [
     "video_En6bxX",
     "logo_list_7RAtbB",
+    "impact_text_Pnaj6i",
     "image_with_text_overlay_yG3icq",
+    "impact_text_b4Uc7c",
     "image_with_text_overlay_LF3m8r",
     "before_after_image_q4y8KM",
     "ss_testimonial_8_RG4UDb",
