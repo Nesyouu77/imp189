@@ -48,7 +48,7 @@
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#85ccf5",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -58,7 +58,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/logo_rosevia.png",
+        "logo": "shopify://shop_images/rosevia_noir.png",
         "logo_max_width": 225,
         "logo_mobile_max_width": 130,
         "menu": "main-menu",
