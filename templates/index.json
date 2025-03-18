@@ -733,12 +733,6 @@
             "heading_tag": "h2"
           }
         },
-        "liquid_tYmdhg": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"product-block-liquid-code mt-3 mb-3 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; justify-content: space-around; align-items: center; background-color: #FEE0E1; padding: 6px 2%; font-family: Arial, sans-serif; font-size: 12px; font-weight: bold; color: #000; width: 100%;\" bis_skin_checked=\"1\">\n\n    <!-- Ingrédients Naturels -->\n    <div style=\"display: flex; align-items: center; gap: 6px; position: relative;\" bis_skin_checked=\"1\">\n        <img src=\"https://img.icons8.com/ios/20/000000/leaf.png\" alt=\"Ingrédients naturels\" class=\"\">\n        <span>Ingrédients Naturels</span>\n    </div>\n\n    <!-- Réservoir Intégré -->\n    <div style=\"display: flex; align-items: center; gap: 6px; position: relative;\" bis_skin_checked=\"1\">\n        <img src=\"https://img.icons8.com/ios/20/000000/test-tube.png\" alt=\"Réservoir Intégré\" class=\"\">\n        <span>Réservoir Intégré</span>\n    </div>\n\n</div>\n</div>"
-          }
-        },
         "price_3zNh6Y": {
           "type": "price",
           "settings": {
@@ -864,7 +858,6 @@
         "liquid_zmcyxW",
         "liquid_hLVdx8",
         "title_QF8HGp",
-        "liquid_tYmdhg",
         "price_3zNh6Y",
         "separator_hByp6X",
         "image_wb7Ume",
