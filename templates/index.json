@@ -463,6 +463,7 @@
     },
     "image_with_text_overlay_VD8jzk": {
       "type": "image-with-text-overlay",
+      "disabled": true,
       "settings": {
         "full_width": false,
         "allow_transparent_header": false,
