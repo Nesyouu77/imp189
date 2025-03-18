@@ -803,7 +803,7 @@
         "image_TpQFWb": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/roseeicon.png",
+            "image": "shopify://shop_images/icon_trust.png",
             "alignment": "center",
             "max_width": 500
           }
