@@ -437,16 +437,16 @@
         "stars_color": "#61caa5",
         "text_color": "#000000",
         "author_color": "#000000",
-        "arrow_color": "#756E67",
-        "arrow_hover_color": "#FFFFFF",
-        "arrow_bg_color": "#FFFFFF",
-        "arrow_bg_hover_color": "#756E67",
-        "arrow_border_color": "#756E67",
-        "arrow_border_hover_color": "#756E67",
-        "dots_color": "#756E67",
-        "heading_color": "#756E67",
-        "sub_heading_color": "#756E67",
-        "background_color": "#FFFFFF",
+        "arrow_color": "#756e67",
+        "arrow_hover_color": "#ffffff",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#756e67",
+        "arrow_border_color": "#756e67",
+        "arrow_border_hover_color": "#756e67",
+        "dots_color": "#756e67",
+        "heading_color": "#756e67",
+        "sub_heading_color": "#756e67",
+        "background_color": "#ffffff",
         "background_gradient": "",
         "border_color": "#000000",
         "margin_top": 0,
@@ -749,10 +749,19 @@
           "type": "separator",
           "settings": {}
         },
+        "image_wb7Ume": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/eben_prod.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_EHHArz": {
           "type": "liquid",
+          "disabled": true,
           "settings": {
-            "liquid": "<div class=\"benefits-section\">\n  <h2></h2>\n  <ul class=\"benefits-list\">\n    <li>\n      <img src=\"https://img.icons8.com/?size=100&id=11221&format=png&color=61CAA5\" class=\"benefit-icon\" alt=\"Checkmark\">\n      <span class=\"benefit-text\">Repulpe naturellement</span>\n    </li>\n    <li>\n      <img src=\"https://img.icons8.com/?size=100&id=11221&format=png&color=61CAA5\" class=\"benefit-icon\" alt=\"Checkmark\">\n      <span class=\"benefit-text\">Hydratation intense et profonde</span>\n    </li>\n    <li>\n      <img src=\"https://img.icons8.com/?size=100&id=11221&format=png&color=61CAA5\" class=\"benefit-icon\" alt=\"Checkmark\">\n      <span class=\"benefit-text\">Lisse et atténue les ridules</span>\n    </li>\n    <li>\n      <img src=\"https://img.icons8.com/?size=100&id=11221&format=png&color=61CAA5\" class=\"benefit-icon\" alt=\"Checkmark\">\n      <span class=\"benefit-text\">Solution douce et efficace</span>\n    </li>\n  </ul>\n</div>\n<style>\n  .benefits-section {\n    font-family: Arial, sans-serif;\n    color: #333;\n  }\n  .benefits-section h2 {\n    font-size: 26px;\n    margin-bottom: 10px;\n  }\n  .benefits-list {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n    display: flex;\n    flex-wrap: wrap;\n    justify-content: space-between;\n  }\n  .benefits-list li {\n    width: 48%;\n    margin-bottom: 10px;\n    display: flex;\n    align-items: center;\n  }\n  .benefit-icon {\n    width: 20px;\n    height: 20px;\n    margin-right: 8px;\n  }\n  .benefit-text {\n    font-size: 14px; /* Increased by 2px */\n  }\n</style>"
+            "liquid": "<div class=\"benefits-section\">\n  <h2></h2>\n  <ul class=\"benefits-list\">\n    <li>\n      <img src=\"https://img.icons8.com/?size=100&id=11221&format=png&color=0267c1\" class=\"benefit-icon\" alt=\"Checkmark\">\n      <span class=\"benefit-text\">Hydratation intense & effet repulpant immédiat</span>\n    </li>\n    <li>\n      <img src=\"https://img.icons8.com/?size=100&id=11221&format=png&color=0267c1\" class=\"benefit-icon\" alt=\"Checkmark\">\n      <span class=\"benefit-text\">Hydratation intense et profonde</span>\n    </li>\n    <li>\n      <img src=\"https://img.icons8.com/?size=100&id=11221&format=png&color=0267c1\" class=\"benefit-icon\" alt=\"Checkmark\">\n      <span class=\"benefit-text\">Lisse et atténue les ridules</span>\n    </li>\n    <li>\n      <img src=\"https://img.icons8.com/?size=100&id=11221&format=png&color=0267c1\" class=\"benefit-icon\" alt=\"Checkmark\">\n      <span class=\"benefit-text\">Solution douce et efficace</span>\n    </li>\n  </ul>\n</div>\n<style>\n  .benefits-section {\n    font-family: Arial, sans-serif;\n    color: #333;\n  }\n  .benefits-section h2 {\n    font-size: 26px;\n    margin-bottom: 10px;\n  }\n  .benefits-list {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n    display: flex;\n    flex-wrap: wrap;\n    justify-content: space-between;\n  }\n  .benefits-list li {\n    width: 48%;\n    margin-bottom: 10px;\n    display: flex;\n    align-items: center;\n  }\n  .benefit-icon {\n    width: 20px;\n    height: 20px;\n    margin-right: 8px;\n  }\n  .benefit-text {\n    font-size: 14px; /* Increased by 2px */\n  }\n</style>"
           }
         },
         "liquid_ALRLF6": {
@@ -858,6 +867,7 @@
         "liquid_tYmdhg",
         "price_3zNh6Y",
         "separator_hByp6X",
+        "image_wb7Ume",
         "liquid_EHHArz",
         "liquid_ALRLF6",
         "liquid_HiCHya",
@@ -875,7 +885,7 @@
       ],
       "settings": {
         "full_width": true,
-        "product": "lipboost-kit-hydratez-repulpez-rayonnez",
+        "product": "patchs-anti-rides-microcristallins",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "contained",
