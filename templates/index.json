@@ -833,32 +833,32 @@
         "collapsible_text_L3QyJt": {
           "type": "collapsible_text",
           "settings": {
-            "title": "À quelle fréquence dois-je l'utiliser ?",
-            "content": "<p>Nous recommandons <strong>2 applications par semaine</strong>, mais vous pouvez l’utiliser <strong>tous les jours</strong> pour des résultats plus rapides. </p>",
+            "title": "❓ Comment ça marche ?",
+            "content": "<p>💡 Les patchs diffusent l’Acide Hyaluronique directement sous la peau, sans douleur, pour repulper et lisser les rides en quelques heures.</p>",
             "page": ""
           }
         },
         "collapsible_text_YA8Uif": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Est-ce efficace contre les ridules et les rides ?",
-            "content": "<p>OUI ! Nos patchs offrent une <strong>hydratation intense et un effet tenseur immédiat</strong> pour atténuer visiblement les rides et ridules dès les premières utilisations.</p>",
+            "title": "❓ Est-ce que ça fonctionne vraiment ?",
+            "content": "<p>Oui ! 94% de nos utilisatrices ont constaté une diminution des rides dès la première semaine.</p>",
             "page": ""
           }
         },
         "collapsible_text_6znqMt": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Puis-je l’utiliser avec d’autres soins de la peau ?",
-            "content": "<p>Absolument ! Nos patchs sont <strong>compatibles avec tous les produits de soin</strong> et ne provoquent <strong>aucun effet secondaire</strong> indésirable.</p>",
+            "title": "❓ Est-ce douloureux ?",
+            "content": "<p>Pas du tout ! Contrairement aux injections, la sensation est douce et agréable.</p>",
             "page": ""
           }
         },
         "collapsible_text_RAbfk4": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Et si j’ai la peau sensible ?",
-            "content": "<p>Aucune inquiétude ! Nos ingrédients sont <strong>100% sûrs, hypoallergéniques et adaptés à tous les types de peau</strong>, même les plus sensibles.</p>",
+            "title": "❓ Combien de temps avant de voir les résultats ?",
+            "content": "<p>Dès 2 heures après application, vous verrez une nette amélioration !</p>",
             "page": ""
           }
         },
