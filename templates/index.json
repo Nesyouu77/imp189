@@ -815,6 +815,12 @@
             "liquid": "<div class=\"product-block-liquid-code mt-6 mb-6 wb-force-show-element\" bis_skin_checked=\"1\">\n    <div style=\"background-color: #f9f9f9; border-left: 4px solid #ff9ca5; padding: 15px; margin-bottom: 20px; border-radius: 4px;\" bis_skin_checked=\"1\">\n        <p style=\"font-style: italic;\">“Je n’y croyais pas, mais après une nuit, mes rides sous les yeux avaient quasiment disparu ! Plus besoin de maquillage pour les cacher.” –<strong>Claire, 46 ans.</strong></p>\n    </div>\n</div>"
           }
         },
+        "liquid_BfqB9a": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">\"Je vous recommande vivement les patchs microcristallins de chez Rosevia pour le visage ! Il hydrate intensément, réduit les rides et raffermit la peau pour un teint plus lisse et éclatant. Un véritable allié pour une peau visiblement plus jeune, radieuse et pleine de vie.\"</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr Sophie L. Dermatologue</span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>*Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/* .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte */\n  vertical-align: middle; /* Aligne l'icône avec le texte */\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n} */\n</style>\n          </div>"
+          }
+        },
         "liquid_aPeb8L": {
           "type": "liquid",
           "disabled": true,
@@ -887,6 +893,7 @@
         "liquid_7nB9Ek",
         "image_TpQFWb",
         "liquid_kAkDQJ",
+        "liquid_BfqB9a",
         "liquid_aPeb8L",
         "collapsible_text_FrqpwT",
         "collapsible_text_L3QyJt",
