@@ -965,7 +965,9 @@
         "slide_aA4aFz": {
           "type": "slide",
           "settings": {
-            "heading": "<h3>Elegant Transformation</h3>",
+            "before_image": "shopify://shop_images/Screenshot_941.png",
+            "after_image": "shopify://shop_images/Screenshot_942.png",
+            "heading": "<h3><strong>Sans Aiguille, Sans Douleur !</strong></h3>",
             "stars_count": 5,
             "text": "<p>The vibrant colors and unique design of this rug instantly brightened and transformed the entire room. It’s like walking into a new space every time.</p>"
           }
@@ -977,21 +979,12 @@
             "stars_count": 5,
             "text": "<p>The dramatic pattern and lush texture of the rug created a stunning visual impact that changed the room's vibe entirely. It’s now the focal point that draws everyone’s attention. Well done guys!</p>"
           }
-        },
-        "slide_RcfTtJ": {
-          "type": "slide",
-          "settings": {
-            "heading": "<h3>Luxurious Comfort</h3>",
-            "stars_count": 5,
-            "text": "<p>Added a touch of luxury and comfort that made the room feel more inviting than ever before. The dramatic pattern and lush texture of the rug created a stunning visual impact that changed the room's vibe entirely. LOVE IT 🥰</p>"
-          }
         }
       },
       "block_order": [
         "slide_jUJGTr",
         "slide_aA4aFz",
-        "slide_ByEqHH",
-        "slide_RcfTtJ"
+        "slide_ByEqHH"
       ],
       "settings": {
         "heading": "",
