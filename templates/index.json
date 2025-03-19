@@ -969,22 +969,13 @@
             "after_image": "shopify://shop_images/Screenshot_942.png",
             "heading": "<h3><strong>Sans Aiguille, Sans Douleur !</strong></h3>",
             "stars_count": 5,
-            "text": "<p>The vibrant colors and unique design of this rug instantly brightened and transformed the entire room. It’s like walking into a new space every time.</p>"
-          }
-        },
-        "slide_ByEqHH": {
-          "type": "slide",
-          "settings": {
-            "heading": "<h3>Stunning Impact</h3>",
-            "stars_count": 5,
-            "text": "<p>The dramatic pattern and lush texture of the rug created a stunning visual impact that changed the room's vibe entirely. It’s now the focal point that draws everyone’s attention. Well done guys!</p>"
+            "text": "<p><em>Ce patch est une révolution ! Plus efficace qu’une crème anti-rides, et sans douleur !\"</em> <strong>– Laura, 39 ans.</strong></p>"
           }
         }
       },
       "block_order": [
         "slide_jUJGTr",
-        "slide_aA4aFz",
-        "slide_ByEqHH"
+        "slide_aA4aFz"
       ],
       "settings": {
         "heading": "",
@@ -1006,8 +997,8 @@
         "image_radius": 20,
         "image_border_thickness": 0,
         "image_shadow": true,
-        "text_from": "from this",
-        "text_to": "to this",
+        "text_from": "Avant",
+        "text_to": "Après",
         "before_after_text_custom": false,
         "before_after_text_font": "josefin_sans_n4",
         "before_after_text_size": 25,
