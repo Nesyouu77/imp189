@@ -130,6 +130,210 @@
         "button_text_color": ""
       }
     },
+    "ss_testimonial_8_RG4UDb": {
+      "type": "ss-testimonial-8",
+      "settings": {
+        "heading": "Des résultats que vous verrez de vos propres yeux.",
+        "heading_custom": false,
+        "heading_font": "josefin_sans_n4",
+        "heading_size": 40,
+        "heading_size_mobile": 24,
+        "heading_height": 130,
+        "heading_align": "center",
+        "rating_text": "Excellent",
+        "rating_text_custom": false,
+        "rating_text_font": "josefin_sans_n4",
+        "rating_text_size": 24,
+        "rating_text_size_mobile": 20,
+        "rating_text_height": 130,
+        "rating_text_mt": 16,
+        "rating": 4.8,
+        "rating_hide": false,
+        "rating_text_hide": false,
+        "rating_align": "center",
+        "stars_count": 5,
+        "stars_size": 28,
+        "stars_size_mobile": 24,
+        "stars_align": "center",
+        "text": "<p>Basé sur <strong>1 067</strong> avis</p>",
+        "text_custom": false,
+        "text_font": "josefin_sans_n4",
+        "text_size": 20,
+        "text_size_mobile": 16,
+        "text_height": 130,
+        "text_align": "center",
+        "text_mt": 16,
+        "slider_width": 80,
+        "slider_view": 3,
+        "slider_view_mobile": 1.2,
+        "slider_gap": 20,
+        "slider_gap_mobile": 20,
+        "slider_mt": 36,
+        "card_padding_vertical": 32,
+        "card_padding_vertical_mobile": 24,
+        "card_padding_horizontal": 40,
+        "card_padding_horizontal_mobile": 24,
+        "card_radius": 16,
+        "card_border_thickness": 0,
+        "card_shadow": true,
+        "card_heading_custom": false,
+        "card_heading_font": "josefin_sans_n4",
+        "card_heading_size": 24,
+        "card_heading_size_mobile": 20,
+        "card_heading_height": 130,
+        "card_heading_align": "center",
+        "card_heading_mt": 16,
+        "card_text_custom": false,
+        "card_text_font": "josefin_sans_n4",
+        "card_text_size": 14,
+        "card_text_size_mobile": 14,
+        "card_text_height": 150,
+        "card_text_align": "center",
+        "card_text_mt": 16,
+        "card_text_more": "View More",
+        "card_text_less": "View Less",
+        "card_count_words": 20,
+        "card_author_date_text_custom": false,
+        "card_author_date_text_font": "josefin_sans_n4",
+        "card_author_date_text_size": 16,
+        "card_author_date_text_size_mobile": 16,
+        "card_author_date_text_height": 130,
+        "card_author_date_text_align": "center",
+        "card_author_date_text_mt": 16,
+        "arrow_size": 50,
+        "arrow_size_mobile": 50,
+        "arrow_icon_size": 28,
+        "arrow_icon_size_mobile": 28,
+        "arrow_border_thickness": 0,
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "dots_size": 12,
+        "dots_size_mobile": 12,
+        "dots_show_desktop": false,
+        "dots_show_mobile": false,
+        "button": "",
+        "button_url": "",
+        "button_custom": false,
+        "button_font": "josefin_sans_n4",
+        "button_size": 16,
+        "button_size_mobile": 14,
+        "button_height": 100,
+        "button_align": "center",
+        "button_mt": 16,
+        "button_padding_vertical": 20,
+        "button_padding_horizontal": 16,
+        "button_radius": 8,
+        "button_border_thickness": 0,
+        "button_color": "#ffffff",
+        "button_hover_color": "#ffffff",
+        "button_bg_color": "#000000",
+        "button_bg_hover_color": "#000000",
+        "button_border_color": "#000000",
+        "button_border_hover_color": "#000000",
+        "card_bg_color": "#ffffff",
+        "card_border_color": "#000000",
+        "card_shadow_color": "#00b67a",
+        "card_heading_color": "#000000",
+        "card_text_color": "#000000",
+        "card_author_date_text_color": "#000000",
+        "arrow_color": "#000000",
+        "arrow_hover_color": "#000000",
+        "arrow_bg_color": "#ffffff",
+        "arrow_bg_hover_color": "#ffffff",
+        "arrow_border_color": "#ffffff",
+        "arrow_border_hover_color": "#ffffff",
+        "dots_color": "#000000",
+        "heading_color": "#000000",
+        "rating_text_color": "#000000",
+        "stars_bg_color": "#00b67a",
+        "stars_color": "#ffffff",
+        "text_color": "#000000",
+        "background_color": "#ffffff",
+        "background_gradient": "linear-gradient(180deg, rgba(NaN, NaN, NaN, 0), rgba(NaN, NaN, NaN, 0) 97.482%, rgba(255, 255, 255, 1) 100%)",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 60,
+        "padding_bottom": 0,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 0,
+        "full_width": true,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
+    },
+    "ss_gallery_1_k6egaL": {
+      "type": "ss-gallery-1",
+      "blocks": {
+        "image_cXwBXB": {
+          "type": "image",
+          "settings": {
+            "gallery_photo": "shopify://shop_images/AVANT.webp",
+            "gallery_url": ""
+          }
+        },
+        "image_hmNYwn": {
+          "type": "image",
+          "settings": {
+            "gallery_photo": "shopify://shop_images/1.webp",
+            "gallery_url": ""
+          }
+        },
+        "image_GrAfjC": {
+          "type": "image",
+          "settings": {
+            "gallery_photo": "shopify://shop_images/AVANTLAST.webp",
+            "gallery_url": ""
+          }
+        },
+        "image_kFnbwi": {
+          "type": "image",
+          "settings": {
+            "gallery_photo": "shopify://shop_images/AVANT2.webp",
+            "gallery_url": ""
+          }
+        },
+        "image_jGWhPL": {
+          "type": "image",
+          "settings": {
+            "gallery_photo": "shopify://shop_images/2.webp",
+            "gallery_url": ""
+          }
+        },
+        "image_ikK9wV": {
+          "type": "image",
+          "settings": {
+            "gallery_photo": "shopify://shop_images/3.webp",
+            "gallery_url": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_cXwBXB",
+        "image_hmNYwn",
+        "image_GrAfjC",
+        "image_kFnbwi",
+        "image_jGWhPL",
+        "image_ikK9wV"
+      ],
+      "name": "SS - Image Gallery",
+      "settings": {
+        "show_all_mobile": true,
+        "gallery_title": "",
+        "gallery_title_font_size": 40,
+        "gallery_insta_title": "",
+        "gallery_insta_url": "",
+        "gallery_image": "shopify://shop_images/1.webp",
+        "gallery_url": "",
+        "section_bg_color": "#ffffff",
+        "type_header_font": "assistant_n4",
+        "type_insta_font": "assistant_n4",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "section-width": 120
+      }
+    },
     "impact_text_b4Uc7c": {
       "type": "impact-text",
       "blocks": {
@@ -463,7 +667,7 @@
         "price_3zNh6Y": {
           "type": "price",
           "settings": {
-            "show_taxes_notice": false
+            "show_taxes_notice": true
           }
         },
         "separator_hByp6X": {
@@ -473,12 +677,11 @@
         "text_3PppNy": {
           "type": "text",
           "settings": {
-            "text": "<p>Dites adieu aux signes de fatigue avec <strong>Youcream Anti-Cernes</strong>, la crème contour des yeux conçue pour estomper les cernes, réduire les poches et illuminer votre regard.</p><p>💧 <strong>Hydratation intense</strong> – Sa formule enrichie en acide hyaluronique hydrate en profondeur la zone délicate du contour des yeux.<br/><br/>🌿 <strong>Ingrédients naturels</strong> – Infusée de caféine et d’extraits végétaux pour stimuler la microcirculation et réduire l’aspect fatigué.<br/><br/>✨ <strong>Effet illuminateur immédiat</strong> – Lisse et unifie la peau pour un regard visiblement plus frais dès la première application.<br/><br/>👀 <strong>Convient à tous les types de peau</strong> – Texture légère, non grasse et rapidement absorbée.</p><p>✅ Résultats visibles en 2 semaines : regard reposé, cernes atténués, peau raffermie.</p>"
+            "text": "<p>Share some content to your customers about your products.</p>"
           }
         },
         "liquid_EHHArz": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
             "liquid": "<div class=\"benefits-section\">\n  <h2></h2>\n  <ul class=\"benefits-list\">\n    <li>\n      <img src=\"https://img.icons8.com/?size=100&id=11221&format=png&color=0267c1\" class=\"benefit-icon\" alt=\"Checkmark\">\n      <span class=\"benefit-text\">Hydratation intense & effet repulpant immédiat</span>\n    </li>\n    <li>\n      <img src=\"https://img.icons8.com/?size=100&id=11221&format=png&color=0267c1\" class=\"benefit-icon\" alt=\"Checkmark\">\n      <span class=\"benefit-text\">Hydratation intense et profonde</span>\n    </li>\n    <li>\n      <img src=\"https://img.icons8.com/?size=100&id=11221&format=png&color=0267c1\" class=\"benefit-icon\" alt=\"Checkmark\">\n      <span class=\"benefit-text\">Lisse et atténue les ridules</span>\n    </li>\n    <li>\n      <img src=\"https://img.icons8.com/?size=100&id=11221&format=png&color=0267c1\" class=\"benefit-icon\" alt=\"Checkmark\">\n      <span class=\"benefit-text\">Solution douce et efficace</span>\n    </li>\n  </ul>\n</div>\n<style>\n  .benefits-section {\n    font-family: Arial, sans-serif;\n    color: #333;\n  }\n  .benefits-section h2 {\n    font-size: 26px;\n    margin-bottom: 10px;\n  }\n  .benefits-list {\n    list-style: none;\n    padding: 0;\n    margin: 0;\n    display: flex;\n    flex-wrap: wrap;\n    justify-content: space-between;\n  }\n  .benefits-list li {\n    width: 48%;\n    margin-bottom: 10px;\n    display: flex;\n    align-items: center;\n  }\n  .benefit-icon {\n    width: 20px;\n    height: 20px;\n    margin-right: 8px;\n  }\n  .benefit-text {\n    font-size: 14px; /* Increased by 2px */\n  }\n</style>"
           }
@@ -526,6 +729,12 @@
             "max_width": 500
           }
         },
+        "liquid_aPeb8L": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_G66kep\" data-block-type=\"liquid\" bis_skin_checked=\"1\"><div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n              <div class=\"product__block product__block--custom_liquid\" bis_skin_checked=\"1\">\n            <div class=\"order-arrival\" bis_skin_checked=\"1\">\n    <div class=\"order-today\" bis_skin_checked=\"1\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\">\n        <g clip-path=\"url(#clip0_90_774)\">\n          <path d=\"M10 18.3334C14.6024 18.3334 18.3333 14.6025 18.3333 10.0001C18.3333 5.39771 14.6024 1.66675 10 1.66675C5.39763 1.66675 1.66667 5.39771 1.66667 10.0001C1.66667 14.6025 5.39763 18.3334 10 18.3334Z\" stroke=\"#F53A4E\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n          <path d=\"M10 5V10L13.3333 11.6667\" stroke=\"#F53A4E\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n        </g>\n        <defs>\n          <clipPath id=\"clip0_90_774\">\n            <rect width=\"20\" height=\"20\" fill=\"white\"></rect>\n          </clipPath>\n        </defs>\n      </svg>\n      <div class=\"stacked-text\" bis_skin_checked=\"1\">\n        <p>Commande <br>\n        <strong>Aujourd'hui</strong>\n        </p>\n      </div>\n    </div>\n  \n    <div class=\"order-arrow\" bis_skin_checked=\"1\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"44\" height=\"20\" viewBox=\"0 0 44 20\" fill=\"none\">\n        <path d=\"M3.99997 10H38.6666\" stroke=\"#F53A4E\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n        <path d=\"M33 4.16675L38.8333 10.0001L33 15.8334\" stroke=\"#F53A4E\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n      </svg>\n    </div>\n  \n    <div class=\"arrival-date\" bis_skin_checked=\"1\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n        <path d=\"M17.4167 3.66675H4.58333C3.57081 3.66675 2.75 4.48756 2.75 5.50008V18.3334C2.75 19.3459 3.57081 20.1667 4.58333 20.1667H17.4167C18.4292 20.1667 19.25 19.3459 19.25 18.3334V5.50008C19.25 4.48756 18.4292 3.66675 17.4167 3.66675Z\" stroke=\"#F53A4E\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n        <path d=\"M14.6667 1.83325V5.49992\" stroke=\"#F53A4E\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n        <path d=\"M7.33334 1.83325V5.49992\" stroke=\"#F53A4E\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n        <path d=\"M2.75 8.25H19.25\" stroke=\"#F53A4E\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n        <path d=\"M14.6667 11.3438L9.62501 16.3854L7.33334 14.0937\" stroke=\"#F53A4E\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n      </svg>\n      <div class=\"stacked-text\" bis_skin_checked=\"1\">\n        <p>Livraison <br>\n        <strong id=\"arrival-date-text\">13-14 mars</strong>\n        </p>\n      </div>\n    </div>\n  </div>\n  \n  <style>\n    .order-arrival {\n      display: flex;\n      align-items: center;\n      justify-content: space-between;\n      background-color: #FEECED;\n      border: 1px solid #F53A4E;\n      padding: 12px 18px;\n      border-radius: 8px;\n      font-family: Arial, sans-serif;\n      max-width: 400px;\n      margin: 20px auto;\n      box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.05);\n    }\n  \n    .order-today,\n    .arrival-date {\n      display: flex;\n      align-items: center;\n      gap: 10px;\n    }\n  \n    .order-arrow {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n    }\n  \n    .stacked-text p {\n      font-size: 14px;\n      color: #333;\n      margin: 0;\n      text-align: center;\n    }\n  \n    .stacked-text strong {\n      font-size: 16px;\n      color: #F53A4E;\n    }\n  \n    svg {\n      display: block;\n    }\n  </style>\n  \n  <script>\n    function updateDeliveryDate() {\n      const minDays = 7; // Start of delivery range\n      const maxDays = 8; // End of delivery range\n  \n      let today = new Date();\n      let startDate = new Date(today);\n      let endDate = new Date(today);\n  \n      startDate.setDate(today.getDate() + minDays); // First delivery day\n      endDate.setDate(today.getDate() + maxDays); // Last delivery day\n  \n      const options = { day: 'numeric', month: 'long' }; // Format: \"18 February\"\n  \n      let formattedStartDate = startDate.toLocaleDateString('fr-FR', options);\n      let formattedEndDate = endDate.toLocaleDateString('fr-FR', options);\n  \n      // If the month is the same, only show the day for the second date\n      let startMonth = startDate.toLocaleDateString('fr-FR', { month: 'long' });\n      let endMonth = endDate.toLocaleDateString('fr-FR', { month: 'long' });\n  \n      let displayDate = (startMonth === endMonth)\n        ? `${startDate.getDate()}-${endDate.getDate()} ${startMonth}`\n        : `${formattedStartDate} - ${formattedEndDate}`;\n  \n      document.getElementById(\"arrival-date-text\").innerText = displayDate;\n    }\n  \n    updateDeliveryDate();\n  </script>\n          </div>\n            </div></div>"
+          }
+        },
         "liquid_kAkDQJ": {
           "type": "liquid",
           "settings": {
@@ -538,11 +747,10 @@
             "liquid": "<div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n            <div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n    <div style=\"display: flex; margin-bottom: 20px; margin-top: -15px; align-items: center; border: 1px solid #e1e1e1; padding: 12px; border-radius: 10px; max-width: 1200px;\" bis_skin_checked=\"1\">\n        <div style=\"flex-shrink: 0;\" bis_skin_checked=\"1\">\n            <img src=\"https://www.lutronic.com/us/wp-content/uploads/sites/5/2023/08/Melda_Isaac-600x600-1.png\" alt=\"Profile Picture\" style=\"border-radius: 50%; width: 60px; height: 60px; object-fit: cover;\">\n        </div>\n        <div style=\"margin-left: 8px;\" bis_skin_checked=\"1\">\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://cdn.shopify.com/s/files/1/0549/0117/8598/files/stars-4.5.svg?v=1662112912\" alt=\"Stars\" style=\"width: 100px; height: auto;\">\n            </div>\n            <p style=\"font-style: italic; font-size: 11px; margin: 5px 0;\">\"Je vous recommande vivement les patchs microcristallins de chez Youcream pour le visage ! Il hydrate intensément, réduit les rides et raffermit la peau pour un teint plus lisse et éclatant. Un véritable allié pour une peau visiblement plus jeune, radieuse et pleine de vie.\"</p>\n            <div style=\"display: flex; align-items: center;\" bis_skin_checked=\"1\">\n                <img src=\"https://pagepilot.ai/images/checkmark.svg\" alt=\"Verified Icon\" style=\"width: 20px; height: 20px; margin-right: 5px;\">\n                <span>Dr Sophie L. Dermatologue</span>\n            </div>\n        </div>\n    </div>\n</div>\n          </div>\n<!-- <div class=\"richtext-product-description2\">\n<p>*Nos visuels sont illustratifs : chaque produit conserve son design et sa qualité, avec parfois de subtiles variations entre les lots.</p>\n</div> -->\n\n<style>\n/* .richtext-product-description p:nth-child(1)::before {\n  content: '';\n  display: inline-block;\n  background-size: contain;\n  background-repeat: no-repeat;\n  margin-right: 8px; /* Espacement entre l'icône et le texte */\n  vertical-align: middle; /* Aligne l'icône avec le texte */\n}\n.richtext-product-description2 p {\n  font-size: 14px;\n  line-height: 26px;\n} */\n</style>\n          </div>"
           }
         },
-        "liquid_aPeb8L": {
+        "liquid_Ae6N8d": {
           "type": "liquid",
-          "disabled": true,
           "settings": {
-            "liquid": "<div class=\"product-info__block-item\" data-block-id=\"liquid_G66kep\" data-block-type=\"liquid\" bis_skin_checked=\"1\"><div class=\"product-info__liquid\" bis_skin_checked=\"1\">\n              <div class=\"product__block product__block--custom_liquid\" bis_skin_checked=\"1\">\n            <div class=\"order-arrival\" bis_skin_checked=\"1\">\n    <div class=\"order-today\" bis_skin_checked=\"1\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"20\" height=\"20\" viewBox=\"0 0 20 20\" fill=\"none\">\n        <g clip-path=\"url(#clip0_90_774)\">\n          <path d=\"M10 18.3334C14.6024 18.3334 18.3333 14.6025 18.3333 10.0001C18.3333 5.39771 14.6024 1.66675 10 1.66675C5.39763 1.66675 1.66667 5.39771 1.66667 10.0001C1.66667 14.6025 5.39763 18.3334 10 18.3334Z\" stroke=\"#F53A4E\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n          <path d=\"M10 5V10L13.3333 11.6667\" stroke=\"#F53A4E\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n        </g>\n        <defs>\n          <clipPath id=\"clip0_90_774\">\n            <rect width=\"20\" height=\"20\" fill=\"white\"></rect>\n          </clipPath>\n        </defs>\n      </svg>\n      <div class=\"stacked-text\" bis_skin_checked=\"1\">\n        <p>Commande <br>\n        <strong>Aujourd'hui</strong>\n        </p>\n      </div>\n    </div>\n  \n    <div class=\"order-arrow\" bis_skin_checked=\"1\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"44\" height=\"20\" viewBox=\"0 0 44 20\" fill=\"none\">\n        <path d=\"M3.99997 10H38.6666\" stroke=\"#F53A4E\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n        <path d=\"M33 4.16675L38.8333 10.0001L33 15.8334\" stroke=\"#F53A4E\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n      </svg>\n    </div>\n  \n    <div class=\"arrival-date\" bis_skin_checked=\"1\">\n      <svg xmlns=\"http://www.w3.org/2000/svg\" width=\"22\" height=\"22\" viewBox=\"0 0 22 22\" fill=\"none\">\n        <path d=\"M17.4167 3.66675H4.58333C3.57081 3.66675 2.75 4.48756 2.75 5.50008V18.3334C2.75 19.3459 3.57081 20.1667 4.58333 20.1667H17.4167C18.4292 20.1667 19.25 19.3459 19.25 18.3334V5.50008C19.25 4.48756 18.4292 3.66675 17.4167 3.66675Z\" stroke=\"#F53A4E\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n        <path d=\"M14.6667 1.83325V5.49992\" stroke=\"#F53A4E\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n        <path d=\"M7.33334 1.83325V5.49992\" stroke=\"#F53A4E\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n        <path d=\"M2.75 8.25H19.25\" stroke=\"#F53A4E\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n        <path d=\"M14.6667 11.3438L9.62501 16.3854L7.33334 14.0937\" stroke=\"#F53A4E\" stroke-width=\"1.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\"></path>\n      </svg>\n      <div class=\"stacked-text\" bis_skin_checked=\"1\">\n        <p>Livraison <br>\n        <strong id=\"arrival-date-text\">13-14 mars</strong>\n        </p>\n      </div>\n    </div>\n  </div>\n  \n  <style>\n    .order-arrival {\n      display: flex;\n      align-items: center;\n      justify-content: space-between;\n      background-color: #FEECED;\n      border: 1px solid #F53A4E;\n      padding: 12px 18px;\n      border-radius: 8px;\n      font-family: Arial, sans-serif;\n      max-width: 400px;\n      margin: 20px auto;\n      box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.05);\n    }\n  \n    .order-today,\n    .arrival-date {\n      display: flex;\n      align-items: center;\n      gap: 10px;\n    }\n  \n    .order-arrow {\n      display: flex;\n      align-items: center;\n      justify-content: center;\n    }\n  \n    .stacked-text p {\n      font-size: 14px;\n      color: #333;\n      margin: 0;\n      text-align: center;\n    }\n  \n    .stacked-text strong {\n      font-size: 16px;\n      color: #F53A4E;\n    }\n  \n    svg {\n      display: block;\n    }\n  </style>\n  \n  <script>\n    function updateDeliveryDate() {\n      const minDays = 7; // Start of delivery range\n      const maxDays = 8; // End of delivery range\n  \n      let today = new Date();\n      let startDate = new Date(today);\n      let endDate = new Date(today);\n  \n      startDate.setDate(today.getDate() + minDays); // First delivery day\n      endDate.setDate(today.getDate() + maxDays); // Last delivery day\n  \n      const options = { day: 'numeric', month: 'long' }; // Format: \"18 February\"\n  \n      let formattedStartDate = startDate.toLocaleDateString('fr-FR', options);\n      let formattedEndDate = endDate.toLocaleDateString('fr-FR', options);\n  \n      // If the month is the same, only show the day for the second date\n      let startMonth = startDate.toLocaleDateString('fr-FR', { month: 'long' });\n      let endMonth = endDate.toLocaleDateString('fr-FR', { month: 'long' });\n  \n      let displayDate = (startMonth === endMonth)\n        ? `${startDate.getDate()}-${endDate.getDate()} ${startMonth}`\n        : `${formattedStartDate} - ${formattedEndDate}`;\n  \n      document.getElementById(\"arrival-date-text\").innerText = displayDate;\n    }\n  \n    updateDeliveryDate();\n  </script>\n          </div>\n            </div></div>"
+            "liquid": ""
           }
         },
         "collapsible_text_FrqpwT": {
@@ -608,9 +816,10 @@
         "buy_buttons_Njnz3b",
         "liquid_7nB9Ek",
         "image_TpQFWb",
+        "liquid_aPeb8L",
         "liquid_kAkDQJ",
         "liquid_BfqB9a",
-        "liquid_aPeb8L",
+        "liquid_Ae6N8d",
         "collapsible_text_FrqpwT",
         "collapsible_text_L3QyJt",
         "collapsible_text_YA8Uif",
@@ -902,208 +1111,66 @@
         "border_thickness": 0
       }
     },
-    "ss_testimonial_8_RG4UDb": {
-      "type": "ss-testimonial-8",
-      "settings": {
-        "heading": "Des résultats que vous verrez de vos propres yeux.",
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
-        "heading_size": 40,
-        "heading_size_mobile": 24,
-        "heading_height": 130,
-        "heading_align": "center",
-        "rating_text": "Excellent",
-        "rating_text_custom": false,
-        "rating_text_font": "josefin_sans_n4",
-        "rating_text_size": 24,
-        "rating_text_size_mobile": 20,
-        "rating_text_height": 130,
-        "rating_text_mt": 16,
-        "rating": 4.8,
-        "rating_hide": false,
-        "rating_text_hide": false,
-        "rating_align": "center",
-        "stars_count": 5,
-        "stars_size": 28,
-        "stars_size_mobile": 24,
-        "stars_align": "center",
-        "text": "<p>Basé sur <strong>1 067</strong> avis</p>",
-        "text_custom": false,
-        "text_font": "josefin_sans_n4",
-        "text_size": 20,
-        "text_size_mobile": 16,
-        "text_height": 130,
-        "text_align": "center",
-        "text_mt": 16,
-        "slider_width": 80,
-        "slider_view": 3,
-        "slider_view_mobile": 1.2,
-        "slider_gap": 20,
-        "slider_gap_mobile": 20,
-        "slider_mt": 36,
-        "card_padding_vertical": 32,
-        "card_padding_vertical_mobile": 24,
-        "card_padding_horizontal": 40,
-        "card_padding_horizontal_mobile": 24,
-        "card_radius": 16,
-        "card_border_thickness": 0,
-        "card_shadow": true,
-        "card_heading_custom": false,
-        "card_heading_font": "josefin_sans_n4",
-        "card_heading_size": 24,
-        "card_heading_size_mobile": 20,
-        "card_heading_height": 130,
-        "card_heading_align": "center",
-        "card_heading_mt": 16,
-        "card_text_custom": false,
-        "card_text_font": "josefin_sans_n4",
-        "card_text_size": 14,
-        "card_text_size_mobile": 14,
-        "card_text_height": 150,
-        "card_text_align": "center",
-        "card_text_mt": 16,
-        "card_text_more": "View More",
-        "card_text_less": "View Less",
-        "card_count_words": 20,
-        "card_author_date_text_custom": false,
-        "card_author_date_text_font": "josefin_sans_n4",
-        "card_author_date_text_size": 16,
-        "card_author_date_text_size_mobile": 16,
-        "card_author_date_text_height": 130,
-        "card_author_date_text_align": "center",
-        "card_author_date_text_mt": 16,
-        "arrow_size": 50,
-        "arrow_size_mobile": 50,
-        "arrow_icon_size": 28,
-        "arrow_icon_size_mobile": 28,
-        "arrow_border_thickness": 0,
-        "arrow_show_desktop": true,
-        "arrow_show_mobile": false,
-        "dots_size": 12,
-        "dots_size_mobile": 12,
-        "dots_show_desktop": false,
-        "dots_show_mobile": false,
-        "button": "",
-        "button_url": "",
-        "button_custom": false,
-        "button_font": "josefin_sans_n4",
-        "button_size": 16,
-        "button_size_mobile": 14,
-        "button_height": 100,
-        "button_align": "center",
-        "button_mt": 16,
-        "button_padding_vertical": 20,
-        "button_padding_horizontal": 16,
-        "button_radius": 8,
-        "button_border_thickness": 0,
-        "button_color": "#ffffff",
-        "button_hover_color": "#ffffff",
-        "button_bg_color": "#000000",
-        "button_bg_hover_color": "#000000",
-        "button_border_color": "#000000",
-        "button_border_hover_color": "#000000",
-        "card_bg_color": "#ffffff",
-        "card_border_color": "#000000",
-        "card_shadow_color": "#00b67a",
-        "card_heading_color": "#000000",
-        "card_text_color": "#000000",
-        "card_author_date_text_color": "#000000",
-        "arrow_color": "#000000",
-        "arrow_hover_color": "#000000",
-        "arrow_bg_color": "#ffffff",
-        "arrow_bg_hover_color": "#ffffff",
-        "arrow_border_color": "#ffffff",
-        "arrow_border_hover_color": "#ffffff",
-        "dots_color": "#000000",
-        "heading_color": "#000000",
-        "rating_text_color": "#000000",
-        "stars_bg_color": "#00b67a",
-        "stars_color": "#ffffff",
-        "text_color": "#000000",
-        "background_color": "#ffffff",
-        "background_gradient": "linear-gradient(180deg, rgba(NaN, NaN, NaN, 0), rgba(NaN, NaN, NaN, 0) 97.482%, rgba(255, 255, 255, 1) 100%)",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 60,
-        "padding_bottom": 0,
-        "padding_horizontal": 5,
-        "padding_horizontal_mobile": 0,
-        "full_width": true,
-        "content_width": 120,
-        "border_thickness": 0,
-        "lazy": true
-      }
-    },
-    "ss_gallery_1_k6egaL": {
-      "type": "ss-gallery-1",
+    "multi_column_w74gt7": {
+      "type": "multi-column",
       "blocks": {
-        "image_cXwBXB": {
-          "type": "image",
+        "item_R7jR4G": {
+          "type": "item",
           "settings": {
-            "gallery_photo": "shopify://shop_images/AVANT.webp",
-            "gallery_url": ""
+            "image": "shopify://shop_images/1.webp",
+            "column_size": "3",
+            "title": "Laura",
+            "heading_tag": "h3",
+            "content": "<p><em>\"Pour celles qui se demandent, ce n'est pas douloureux ! En seulement trois applications, j’ai l’impression d’avoir retrouvé la peau de mes 30 ans ! Mon teint est lumineux, ma peau est plus lisse et plus ferme. Je suis ravie\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "image_hmNYwn": {
-          "type": "image",
+        "item_Y6m3qt": {
+          "type": "item",
           "settings": {
-            "gallery_photo": "shopify://shop_images/1.webp",
-            "gallery_url": ""
+            "image": "shopify://shop_images/AVANT2.webp",
+            "column_size": "3",
+            "title": "Louise",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Dès la première application, j’ai remarqué que les ridules autour de mes lèvres commençaient à s’estomper. Après environ un mois, mes lèvres étaient plus lisses et repulpées.\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         },
-        "image_GrAfjC": {
-          "type": "image",
+        "item_A3LMjf": {
+          "type": "item",
           "settings": {
-            "gallery_photo": "shopify://shop_images/AVANTLAST.webp",
-            "gallery_url": ""
-          }
-        },
-        "image_kFnbwi": {
-          "type": "image",
-          "settings": {
-            "gallery_photo": "shopify://shop_images/AVANT2.webp",
-            "gallery_url": ""
-          }
-        },
-        "image_jGWhPL": {
-          "type": "image",
-          "settings": {
-            "gallery_photo": "shopify://shop_images/2.webp",
-            "gallery_url": ""
-          }
-        },
-        "image_ikK9wV": {
-          "type": "image",
-          "settings": {
-            "gallery_photo": "shopify://shop_images/3.webp",
-            "gallery_url": ""
+            "image": "shopify://shop_images/2.webp",
+            "column_size": "3",
+            "title": "Marie",
+            "heading_tag": "h4",
+            "content": "<p><em>\"Je pensais que le laser était ma seule solution, mais grâce à la micro-infusion, ma peau est enfin uniforme et éclatante ! Et en plus, le traitement est indolore !\"</em></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
           }
         }
       },
       "block_order": [
-        "image_cXwBXB",
-        "image_hmNYwn",
-        "image_GrAfjC",
-        "image_kFnbwi",
-        "image_jGWhPL",
-        "image_ikK9wV"
+        "item_R7jR4G",
+        "item_Y6m3qt",
+        "item_A3LMjf"
       ],
-      "name": "SS - Image Gallery",
+      "name": "Multi-column",
       "settings": {
-        "show_all_mobile": true,
-        "gallery_title": "",
-        "gallery_title_font_size": 40,
-        "gallery_insta_title": "",
-        "gallery_insta_url": "",
-        "gallery_image": "shopify://shop_images/1.webp",
-        "gallery_url": "",
-        "section_bg_color": "#ffffff",
-        "type_header_font": "assistant_n4",
-        "type_insta_font": "assistant_n4",
-        "padding_top": 36,
-        "padding_bottom": 36,
-        "section-width": 120
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     }
   },
@@ -1112,6 +1179,8 @@
     "logo_list_7RAtbB",
     "video_hL6npm",
     "impact_text_Pnaj6i",
+    "ss_testimonial_8_RG4UDb",
+    "ss_gallery_1_k6egaL",
     "impact_text_b4Uc7c",
     "image_with_text_overlay_LF3m8r",
     "before_after_image_q4y8KM",
@@ -1121,7 +1190,6 @@
     "ss_before_after_image_4_bTJVXJ",
     "faq_dLcrRD",
     "ss_wave_2_tU7qQR",
-    "ss_testimonial_8_RG4UDb",
-    "ss_gallery_1_k6egaL"
+    "multi_column_w74gt7"
   ]
 }
