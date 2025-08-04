@@ -454,12 +454,12 @@
     },
     "image_with_text_overlay_VD8jzk": {
       "type": "image-with-text-overlay",
-      "disabled": true,
       "settings": {
         "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/1.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -736,6 +736,7 @@
         "image_wb7Ume": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/appareil-de-massage-vibrant-pour-le-dos-smart-lumbar-pro-x-577_71bde1d2-5943-4afe-a166-184cbb990cfb.webp",
             "alignment": "center",
             "max_width": 500
           }
