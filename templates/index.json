@@ -28,37 +28,31 @@
         "logo_3LJjcW": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Lombafit-logo.webp",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/1200px-VOGUE_revista_-_logo_1.avif",
+            "logo_width": 100,
             "link": ""
           }
         },
         "logo_fdqHRW": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/marie-France-logo.webp",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/Comopolitan_Magazine_Logo_svg_1.avif",
+            "logo_width": 100,
             "link": ""
           }
         },
         "logo_4r6BHC": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/RTBF.webp",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/logo-seo_1.avif",
+            "logo_width": 100,
             "link": ""
           }
         },
         "logo_eyLtrt": {
           "type": "logo",
           "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_zEHpnz": {
-          "type": "logo",
-          "settings": {
+            "logo": "shopify://shop_images/Marie_Claire_Magazine_logo.svg_1.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -68,8 +62,7 @@
         "logo_3LJjcW",
         "logo_fdqHRW",
         "logo_4r6BHC",
-        "logo_eyLtrt",
-        "logo_zEHpnz"
+        "logo_eyLtrt"
       ],
       "settings": {
         "full_width": true,
@@ -77,7 +70,7 @@
         "title": "Vu sur :",
         "content": "",
         "text_alignment": "center",
-        "items_per_row": 3,
+        "items_per_row": 4,
         "background": "",
         "background_gradient": "",
         "text_color": "",
@@ -85,6 +78,21 @@
         "heading_gradient": "",
         "logo_item_background": "",
         "logo_item_border": ""
+      }
+    },
+    "video_hL6npm": {
+      "type": "video",
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": false,
+        "video_size": "sm",
+        "video": "shopify://files/videos/c66d9c8dea244652848a726d588e1c7a.SD-480p-1.5Mbps-40449261.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
       }
     },
     "impact_text_Pnaj6i": {
@@ -120,21 +128,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "image_with_text_overlay_yG3icq": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": false,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Douleur-Cervicale-Stress-homme_81b9dfae-12fe-409f-a961-575300e0a8dd.webp",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "impact_text_b4Uc7c": {
@@ -1187,8 +1180,8 @@
   "order": [
     "video_En6bxX",
     "logo_list_7RAtbB",
+    "video_hL6npm",
     "impact_text_Pnaj6i",
-    "image_with_text_overlay_yG3icq",
     "impact_text_b4Uc7c",
     "image_with_text_overlay_LF3m8r",
     "before_after_image_q4y8KM",
