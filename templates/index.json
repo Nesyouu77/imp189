@@ -657,6 +657,8 @@
         "slide_jUJGTr": {
           "type": "slide",
           "settings": {
+            "before_image": "shopify://shop_images/AVANT.webp",
+            "after_image": "shopify://shop_images/AVANTLAST.webp",
             "heading": "<p><strong>une Peau Lisse en 2H</strong></p>",
             "stars_count": 5,
             "text": "<p>J'étais sceptique… Mais après 2h, mes ridules avaient presque disparu ! Plus besoin de fond de teint pour camoufler mes cernes. <strong>– Claire, 46 ans.</strong></p>"
@@ -665,6 +667,8 @@
         "slide_aA4aFz": {
           "type": "slide",
           "settings": {
+            "before_image": "shopify://shop_images/AVANT2.webp",
+            "after_image": "shopify://shop_images/AVANT2.webp",
             "heading": "<h3><strong>Sans Aiguille, Sans Douleur !</strong></h3>",
             "stars_count": 5,
             "text": "<p><em>Ce patch est une révolution ! Plus efficace qu’une crème anti-rides, et sans douleur !\"</em> <strong>– Laura, 39 ans.</strong></p>"
