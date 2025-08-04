@@ -31,7 +31,7 @@
         "message_nE4PyF": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Livraison gratuite à domicile",
             "url": ""
           }
         },
@@ -41,13 +41,21 @@
             "text": "-50% OFFRE FIN D'HIVER",
             "url": ""
           }
+        },
+        "message_b3rg9q": {
+          "type": "message",
+          "settings": {
+            "text": "Paiement 100 sécurisé",
+            "url": ""
+          }
         }
       },
       "block_order": [
         "message",
         "message_PFG7LT",
         "message_nE4PyF",
-        "message_qXa9AB"
+        "message_qXa9AB",
+        "message_b3rg9q"
       ],
       "settings": {
         "enable_sticky": true,
