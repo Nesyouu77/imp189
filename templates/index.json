@@ -28,6 +28,15 @@
         "logo_3LJjcW": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/Lombafit-logo.webp",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_fdqHRW": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/marie-France-logo.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -35,6 +44,7 @@
         "logo_4r6BHC": {
           "type": "logo",
           "settings": {
+            "logo": "shopify://shop_images/RTBF.webp",
             "logo_width": 120,
             "link": ""
           }
@@ -56,6 +66,7 @@
       },
       "block_order": [
         "logo_3LJjcW",
+        "logo_fdqHRW",
         "logo_4r6BHC",
         "logo_eyLtrt",
         "logo_zEHpnz"
@@ -118,6 +129,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/Douleur-Cervicale-Stress-homme_81b9dfae-12fe-409f-a961-575300e0a8dd.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -167,6 +179,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
+        "image": "shopify://shop_images/mal-au-dos-reveil-femme.webp",
+        "mobile_image": "shopify://shop_images/mal-au-dos-reveil-femme.webp",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
