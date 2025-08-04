@@ -16,7 +16,6 @@
       "name": "Newsletter",
       "settings": {
         "full_width": true,
-        "image": "shopify://shop_images/pistolet-de-massage-musculaire-174.webp",
         "show_icon": true,
         "title": "Newsletter",
         "content": "<p>Écrivez quelque chose sur ce que vos clients recevront en s'abonnant à votre newsletter.<br/><br/></p>",
