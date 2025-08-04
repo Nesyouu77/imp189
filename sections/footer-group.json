@@ -11,6 +11,23 @@
   "type": "footer",
   "name": "Footer group",
   "sections": {
+    "newsletter_9ynR8d": {
+      "type": "newsletter",
+      "name": "Newsletter",
+      "settings": {
+        "full_width": true,
+        "show_icon": true,
+        "title": "Newsletter",
+        "content": "<p>Écrivez quelque chose sur ce que vos clients recevront en s'abonnant à votre newsletter.<br/><br/></p>",
+        "button_text": "Subscribe",
+        "subtext": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "button_background": "",
+        "button_text_color": ""
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -46,6 +63,7 @@
     }
   },
   "order": [
+    "newsletter_9ynR8d",
     "footer"
   ]
 }
