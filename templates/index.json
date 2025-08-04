@@ -470,12 +470,10 @@
           "type": "separator",
           "settings": {}
         },
-        "image_wb7Ume": {
-          "type": "image",
+        "text_3PppNy": {
+          "type": "text",
           "settings": {
-            "image": "shopify://shop_images/pistolet-de-massage-musculaire-174.webp",
-            "alignment": "center",
-            "max_width": 500
+            "text": "<p>Dites adieu aux signes de fatigue avec <strong>Youcream Anti-Cernes</strong>, la crème contour des yeux conçue pour estomper les cernes, réduire les poches et illuminer votre regard.</p><p>💧 <strong>Hydratation intense</strong> – Sa formule enrichie en acide hyaluronique hydrate en profondeur la zone délicate du contour des yeux.<br/><br/>🌿 <strong>Ingrédients naturels</strong> – Infusée de caféine et d’extraits végétaux pour stimuler la microcirculation et réduire l’aspect fatigué.<br/><br/>✨ <strong>Effet illuminateur immédiat</strong> – Lisse et unifie la peau pour un regard visiblement plus frais dès la première application.<br/><br/>👀 <strong>Convient à tous les types de peau</strong> – Texture légère, non grasse et rapidement absorbée.</p><p>✅ Résultats visibles en 2 semaines : regard reposé, cernes atténués, peau raffermie.</p>"
           }
         },
         "liquid_EHHArz": {
@@ -602,7 +600,7 @@
         "title_QF8HGp",
         "price_3zNh6Y",
         "separator_hByp6X",
-        "image_wb7Ume",
+        "text_3PppNy",
         "liquid_EHHArz",
         "liquid_ALRLF6",
         "liquid_HiCHya",
@@ -1100,7 +1098,7 @@
         "gallery_insta_url": "",
         "gallery_image": "shopify://shop_images/1.webp",
         "gallery_url": "",
-        "section_bg_color": "#fff",
+        "section_bg_color": "#ffffff",
         "type_header_font": "assistant_n4",
         "type_insta_font": "assistant_n4",
         "padding_top": 36,
