@@ -73,7 +73,7 @@
       "type": "header",
       "settings": {
         "enable_sticky": true,
-        "hide_on_scroll": false,
+        "hide_on_scroll": true,
         "logo": "shopify://shop_images/pistolet-de-massage-musculaire-174.webp",
         "logo_max_width": 225,
         "logo_mobile_max_width": 130,
